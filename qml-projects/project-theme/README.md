@@ -4,6 +4,8 @@ description: 1. Point to start 2. DataSets
 
 # Project Theme
 
+Video-Crash-Course: [https://www.youtube.com/watch?v=eShyPOLIfYk](https://www.youtube.com/watch?v=eShyPOLIfYk)
+
 ## Point to start:
 
 Circuit Ansatz: [https://pennylane.ai/qml/glossary/circuit\_ansatz.html](https://pennylane.ai/qml/glossary/circuit\_ansatz.html)                                                                                               &#x20;
