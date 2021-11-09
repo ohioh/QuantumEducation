@@ -50,9 +50,9 @@
   * [Variational classifier](qml-projects/project-theme/variational-classifier.md)
   * [Understanding the Haar Measure](qml-projects/project-theme/understanding-the-haar-measure/README.md)
     * [Unitary Designs](qml-projects/project-theme/understanding-the-haar-measure/unitary-designs.md)
-  * [Page 2](qml-projects/project-theme/page-2.md)
   * [Lineare Regression @QML](qml-projects/project-theme/lineare-regression-qml.md)
   * [Quantum-Simulation @Kubernetes with QuEST](qml-projects/project-theme/quantum-simulation-kubernetes-with-quest.md)
+  * [Documentation](qml-projects/project-theme/documentation.md)
 
 ## Research-Papers
 
