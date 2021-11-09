@@ -19,8 +19,8 @@
     * [Hello Qiskit](<quantum-informatic/coding-part/Kapitel 2/hello-qiskit.md>)
     * [Hello Pennylane](<quantum-informatic/coding-part/Kapitel 2/hello-pennylane.md>)
   * [Kapitel 3](quantum-informatic/coding-part/kapitel-3.md)
-  * [Kapitel 4](quantum-informatic/coding-part/kapitel-4.md)
-  * [Kapitel 5](quantum-informatic/coding-part/kapitel-5.md)
+  * [Quantum-Gates](quantum-informatic/coding-part/quantum-gates.md)
+  * [First own steps](quantum-informatic/coding-part/first-own-steps.md)
   * [Kapitel 6](quantum-informatic/coding-part/kapitel-6.md)
   * [Kapitel 7](quantum-informatic/coding-part/kapitel-7.md)
   * [Kapitel 8](quantum-informatic/coding-part/kapitel-8.md)
@@ -32,8 +32,7 @@
 
 ## Quantum-Basics
 
-* [Kapitel 1 - Welcome and cold start](quantum-basics/quantumbasics/README.md)
-  * [Page 1](quantum-basics/quantumbasics/page-1.md)
+* [Kapitel 1 - Welcome and cold start](quantum-basics/quantumbasics.md)
 * [Kapitel 2](quantum-basics/kapitel-2.md)
 * [Kapitel 3](quantum-basics/kapitel-3.md)
 * [Kapitel 4](quantum-basics/kapitel-4.md)
