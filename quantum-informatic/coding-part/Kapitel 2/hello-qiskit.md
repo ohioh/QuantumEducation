@@ -8,13 +8,13 @@ Ein guter Coding-Start beginnt bei der Dokumentation: [https://quantum-computing
 
 Wir werden heute mit Symbolen arbeiten, die wir noch nicht kennen gelernt haben. Das macht auch nichts. Wir schauen uns erstmal die Arbeitsumgebung von IBM an. Diese bietet im Composer die "Q-sphere". Durch dieses Tool haben wir die Möglichkeit die Symbole in Aktion zu sehen. Wie diese funktionieren, schauen wir uns die Tage an. Als kleiner Anreiz und Stütze eine Übersicht zu den Operatoren bzw deren Präsentation als Gate im IBM Composer.
 
-![](<../../../.gitbook/assets/grafik (11).png>)
+![](<../../../.gitbook/assets/grafik (15).png>)
 
 Eine sehr tolle Beschreibung findet ihr hier: [https://medium.com/@mdebdut/quantum-gates-matrix-memorization-cheat-sheet-5541f34cd8fe](https://medium.com/@mdebdut/quantum-gates-matrix-memorization-cheat-sheet-5541f34cd8fe)
 
-![](<../../../.gitbook/assets/grafik (8).png>)
+![](<../../../.gitbook/assets/grafik (10).png>)
 
-![](<../../../.gitbook/assets/grafik (5).png>)
+![](<../../../.gitbook/assets/grafik (7).png>)
 
 Aber wo ist Qiskit ? Dokumentation: [https://qiskit.org/documentation/locale/de\_DE/index.html](https://qiskit.org/documentation/locale/de\_DE/index.html)
 
@@ -24,7 +24,7 @@ Auch wenn wir später erst zu diesem Feature von IBM kommen, sei schon mal gesag
 
 Wir werden nun etwas im Composer arbeiten:
 
-![IBM Quantum Composer](<../../../.gitbook/assets/grafik (10).png>)
+![IBM Quantum Composer](<../../../.gitbook/assets/grafik (13).png>)
 
 Eine ausführlichere Beschreibung findet ihr unter :[https://quantum-computing.ibm.com/composer/docs/iqx/operations\_glossary](https://quantum-computing.ibm.com/composer/docs/iqx/operations\_glossary) Leider noch nicht hilfreich, da die Erklärung zum Rechnen mit Quanten fehlt.... kommt noch! Versproche ;-)
 
@@ -38,7 +38,7 @@ Lasst uns mal ein ersten Versuch probieren -> der Bell-Test ( der Meilenstein: "
 
 Nun seid ihr gefragt: Welchen State sehen wir hier ß
 
-![](<../../../.gitbook/assets/grafik (6).png>)
+![](<../../../.gitbook/assets/grafik (8).png>)
 
 und hier ?
 

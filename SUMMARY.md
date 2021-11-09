@@ -41,6 +41,10 @@
 ## QML-Projects
 
 * [Project Theme](qml-projects/project-theme/README.md)
+  * [Kernel-based training of quantum models with scikit-learne 2](qml-projects/project-theme/kernel-based-training-of-quantum-models-with-scikit-learne-2.md)
+  * [Qubit\_Rotation](qml-projects/project-theme/qubit\_rotation.md)
+  * [Variational Quantum Linear Solver](qml-projects/project-theme/variational-quantum-linear-solver.md)
+  * [Variational classifier](qml-projects/project-theme/variational-classifier.md)
   * [Lineare Regression @QML](qml-projects/project-theme/lineare-regression-qml.md)
   * [Quantum-Simulation @Kubernetes with QuEST](qml-projects/project-theme/quantum-simulation-kubernetes-with-quest.md)
 
