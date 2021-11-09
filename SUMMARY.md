@@ -19,7 +19,6 @@
     * [Hello Qiskit](<quantum-informatic/coding-part/Kapitel 2/hello-qiskit.md>)
     * [Hello Pennylane](<quantum-informatic/coding-part/Kapitel 2/hello-pennylane.md>)
   * [Kapitel 3](quantum-informatic/coding-part/kapitel-3.md)
-  * [Page 2](quantum-informatic/coding-part/page-2.md)
   * [Kapitel 4](quantum-informatic/coding-part/kapitel-4.md)
   * [Kapitel 5](quantum-informatic/coding-part/kapitel-5.md)
   * [Kapitel 6](quantum-informatic/coding-part/kapitel-6.md)
