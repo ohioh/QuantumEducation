@@ -42,6 +42,7 @@
 ## QML-Projects
 
 * [Project Theme](qml-projects/project-theme/README.md)
+  * [Lineare Regression @QML](qml-projects/project-theme/lineare-regression-qml.md)
   * [Quantum-Simulation @Kubernetes with QuEST](qml-projects/project-theme/quantum-simulation-kubernetes-with-quest.md)
 
 ## Research-Papers
