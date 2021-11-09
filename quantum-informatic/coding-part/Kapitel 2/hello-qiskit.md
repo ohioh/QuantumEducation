@@ -32,7 +32,7 @@ Die Blöcke unter "Lets try" sind die Gates bzw. die Logik, die Ihr nutzt um ein
 
 Wenn ihr die Gates bzw Operatoren nutzt... erstellt ihr eine Verarbeitungsvorgabe für die Hardware, die Ihr ansteuert... So in etwa:
 
-![https://www.science.org/cms/10.1126/science.abe3150/asset/ff545163-0860-4b65-846d-cf074c388643/assets/graphic/371\_614\_f1.jpeg](<../../../.gitbook/assets/grafik (1).png>)
+![https://www.science.org/cms/10.1126/science.abe3150/asset/ff545163-0860-4b65-846d-cf074c388643/assets/graphic/371\_614\_f1.jpeg](<../../../.gitbook/assets/grafik (1) (1).png>)
 
 Lasst uns mal ein ersten Versuch probieren -> der Bell-Test ( der Meilenstein: "Bell" folgt morgen und Freitag ) Für heute reicht es zu sehen, dass es mit IBM Q-Composer sehr simpel ist ein Model zu erstellen und die ersten Gedanken dazu in einen sehr hilfreichen Rahmen zu fassen.
 
