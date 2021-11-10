@@ -6,6 +6,10 @@ description: 1. Point to start 2. DataSets
 
 Video-Crash-Course: [https://www.youtube.com/watch?v=eShyPOLIfYk](https://www.youtube.com/watch?v=eShyPOLIfYk)
 
+Aufgabe: Such dir eine Aufgabe aus der untenstehenden Liste und wähle ein passenden Datasatz dazu aus und übertrage das Wissen aus dem Tutorial ( bzw. Aufgabe).
+
+
+
 ## Point to start:
 
 Circuit Ansatz: [https://pennylane.ai/qml/glossary/circuit\_ansatz.html](https://pennylane.ai/qml/glossary/circuit\_ansatz.html)                                                                                               &#x20;
