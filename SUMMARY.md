@@ -32,6 +32,7 @@
 
 ## Quantum-Basics
 
+* [Literatur-Liste:](quantum-basics/literatur-liste.md)
 * [Kapitel 1 - Welcome and cold start](quantum-basics/quantumbasics.md)
 * [Kapitel 2](quantum-basics/kapitel-2.md)
 * [Kapitel 3](quantum-basics/kapitel-3.md)

@@ -4,4 +4,4 @@ description: '@pennylane:https://pennylane.ai/qml/demos/tutorial_kernels_module.
 
 # Training and evaluating quantum kernels
 
-![](<../../.gitbook/assets/grafik (16).png>)
+![](<../../.gitbook/assets/grafik (16) (1).png>)
