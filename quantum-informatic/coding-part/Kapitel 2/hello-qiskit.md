@@ -8,7 +8,7 @@ Ein guter Coding-Start beginnt bei der Dokumentation: [https://quantum-computing
 
 Wir werden heute mit Symbolen arbeiten, die wir noch nicht kennen gelernt haben. Das macht auch nichts. Wir schauen uns erstmal die Arbeitsumgebung von IBM an. Diese bietet im Composer die "Q-sphere". Durch dieses Tool haben wir die Möglichkeit die Symbole in Aktion zu sehen. Wie diese funktionieren, schauen wir uns die Tage an. Als kleiner Anreiz und Stütze eine Übersicht zu den Operatoren bzw deren Präsentation als Gate im IBM Composer.
 
-![](<../../../.gitbook/assets/grafik (15).png>)
+![](<../../../.gitbook/assets/grafik (15) (1).png>)
 
 Eine sehr tolle Beschreibung findet ihr hier: [https://medium.com/@mdebdut/quantum-gates-matrix-memorization-cheat-sheet-5541f34cd8fe](https://medium.com/@mdebdut/quantum-gates-matrix-memorization-cheat-sheet-5541f34cd8fe)
 

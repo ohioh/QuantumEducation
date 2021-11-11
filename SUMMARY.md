@@ -15,6 +15,7 @@
   * [Physik](quantum-informatic/privater-vorkurs/physik.md)
   * [Stochastik](quantum-informatic/privater-vorkurs/stochastik.md)
   * [Mathe](quantum-informatic/privater-vorkurs/mathe/README.md)
+    * ["inner product" - Skalarprodukt](quantum-informatic/privater-vorkurs/mathe/inner-product-skalarprodukt.md)
     * [Lineare Algebra](quantum-informatic/privater-vorkurs/mathe/lineare-algebra.md)
     * [Notationen](quantum-informatic/privater-vorkurs/mathe/notationen.md)
     * [Hilbert-Raum](quantum-informatic/privater-vorkurs/mathe/hilbert-raum.md)
