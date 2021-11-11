@@ -1,5 +1,15 @@
 # Clean Template
 
+The way to define code quality is often defined in a so called "Style-Guide"
+
+A Lot of this are avaible and all well thought.
+
+The one we can use in the course is the numpy style guide:
+
+[https://numpydoc.readthedocs.io/en/latest/format.html](https://numpydoc.readthedocs.io/en/latest/format.html)
+
+More Informations you find under : [https://github.com/ohioh/CleanCode](https://github.com/ohioh/CleanCode)
+
 ```
 #########################################################################################################################################################
 #
