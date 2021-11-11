@@ -14,7 +14,7 @@ Eine sehr tolle Beschreibung findet ihr hier: [https://medium.com/@mdebdut/quant
 
 ![](<../../../.gitbook/assets/grafik (10).png>)
 
-![](<../../../.gitbook/assets/grafik (7).png>)
+![](<../../../.gitbook/assets/grafik (7) (1).png>)
 
 Aber wo ist Qiskit ? Dokumentation: [https://qiskit.org/documentation/locale/de\_DE/index.html](https://qiskit.org/documentation/locale/de\_DE/index.html)
 
@@ -24,7 +24,7 @@ Auch wenn wir später erst zu diesem Feature von IBM kommen, sei schon mal gesag
 
 Wir werden nun etwas im Composer arbeiten:
 
-![IBM Quantum Composer](<../../../.gitbook/assets/grafik (13).png>)
+![IBM Quantum Composer](<../../../.gitbook/assets/grafik (13) (1).png>)
 
 Eine ausführlichere Beschreibung findet ihr unter :[https://quantum-computing.ibm.com/composer/docs/iqx/operations\_glossary](https://quantum-computing.ibm.com/composer/docs/iqx/operations\_glossary) Leider noch nicht hilfreich, da die Erklärung zum Rechnen mit Quanten fehlt.... kommt noch! Versproche ;-)
 
@@ -32,7 +32,7 @@ Die Blöcke unter "Lets try" sind die Gates bzw. die Logik, die Ihr nutzt um ein
 
 Wenn ihr die Gates bzw Operatoren nutzt... erstellt ihr eine Verarbeitungsvorgabe für die Hardware, die Ihr ansteuert... So in etwa:
 
-![https://www.science.org/cms/10.1126/science.abe3150/asset/ff545163-0860-4b65-846d-cf074c388643/assets/graphic/371\_614\_f1.jpeg](<../../../.gitbook/assets/grafik (1) (1) (1).png>)
+![https://www.science.org/cms/10.1126/science.abe3150/asset/ff545163-0860-4b65-846d-cf074c388643/assets/graphic/371\_614\_f1.jpeg](<../../../.gitbook/assets/grafik (1) (1) (1) (1).png>)
 
 Lasst uns mal ein ersten Versuch probieren -> der Bell-Test ( der Meilenstein: "Bell" folgt morgen und Freitag ) Für heute reicht es zu sehen, dass es mit IBM Q-Composer sehr simpel ist ein Model zu erstellen und die ersten Gedanken dazu in einen sehr hilfreichen Rahmen zu fassen.
 
@@ -42,4 +42,4 @@ Nun seid ihr gefragt: Welchen State sehen wir hier ß
 
 und hier ?
 
-![](<../../../.gitbook/assets/grafik (4) (1).png>)
+![](<../../../.gitbook/assets/grafik (4) (1) (1).png>)

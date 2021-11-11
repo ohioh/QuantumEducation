@@ -14,9 +14,9 @@ Diese Gates finden wir natürlich auch in Pennylane:
 
 Bevor ihr mit dem Lesen startet: Eine Vertiefung zu der Bloch-Sphere:
 
-![](<../../.gitbook/assets/grafik (12).png>)
+![](<../../.gitbook/assets/grafik (12) (1).png>)
 
-![](<../../.gitbook/assets/grafik (1).png>)
+![](<../../.gitbook/assets/grafik (1) (1).png>)
 
 [https://threeplusone.com/pubs/on\_gates.pdf](https://threeplusone.com/pubs/on\_gates.pdf)  by Gavin Crooks
 
@@ -38,5 +38,5 @@ CNOT: [https://pennylane.readthedocs.io/en/stable/code/api/pennylane.CNOT.html](
 
 CZ: [https://pennylane.readthedocs.io/en/stable/code/api/pennylane.CZ.html](https://pennylane.readthedocs.io/en/stable/code/api/pennylane.CZ.html)
 
-![](<../../.gitbook/assets/grafik (4).png>)
+![](<../../.gitbook/assets/grafik (4) (1).png>)
 

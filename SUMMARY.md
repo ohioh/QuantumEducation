@@ -8,6 +8,7 @@
 ## Quantum-Informatics <a href="quantum-informatic" id="quantum-informatic"></a>
 
 * ["Privater Vorkurs"](quantum-informatic/privater-vorkurs/README.md)
+  * [Notationen](quantum-informatic/privater-vorkurs/notationen.md)
   * [Statistik](quantum-informatic/privater-vorkurs/statistik.md)
   * [Komplexitätstheorie](quantum-informatic/privater-vorkurs/komplexitaetstheorie.md)
   * [Logik](quantum-informatic/privater-vorkurs/logik.md)
@@ -15,6 +16,7 @@
   * [Physik](quantum-informatic/privater-vorkurs/physik.md)
   * [Stochastik](quantum-informatic/privater-vorkurs/stochastik.md)
   * [Mathe](quantum-informatic/privater-vorkurs/mathe/README.md)
+    * [Symbolbeschreibung](quantum-informatic/privater-vorkurs/mathe/symbolbeschreibung.md)
     * ["inner product" - Skalarprodukt](quantum-informatic/privater-vorkurs/mathe/inner-product-skalarprodukt.md)
     * [Lineare Algebra](quantum-informatic/privater-vorkurs/mathe/lineare-algebra.md)
     * [Notationen](quantum-informatic/privater-vorkurs/mathe/notationen.md)
@@ -56,6 +58,7 @@
 * [Kapitel 3](quantum-basics/kapitel-3.md)
 * [Kapitel 4](quantum-basics/kapitel-4.md)
   * [Rechnen mit Zuständen](quantum-basics/kapitel-4/rechnen-mit-zustaenden/README.md)
+    * [Hilbert-Raum](quantum-basics/kapitel-4/rechnen-mit-zustaenden/hilbert-raum.md)
     * [selbstadjunktierter Operator mit Spur N](quantum-basics/kapitel-4/rechnen-mit-zustaenden/selbstadjunktierter-operator-mit-spur-n.md)
     * [unitärer Operator](quantum-basics/kapitel-4/rechnen-mit-zustaenden/unitaerer-operator.md)
 

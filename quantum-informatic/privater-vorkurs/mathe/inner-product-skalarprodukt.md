@@ -7,4 +7,6 @@ description: >-
 
 # "inner product" - Skalarprodukt
 
+![](<../../../.gitbook/assets/grafik (5).png>)
+
 ![](<../../../.gitbook/assets/grafik (3).png>)

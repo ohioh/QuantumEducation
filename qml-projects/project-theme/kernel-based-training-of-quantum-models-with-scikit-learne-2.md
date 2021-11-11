@@ -4,4 +4,4 @@ description: '@Pennylane: https://pennylane.ai/qml/demos/tutorial_kernel_based_t
 
 # Kernel-based training of quantum models with scikit-learne 2
 
-![](<../../.gitbook/assets/grafik (5).png>)
+![](<../../.gitbook/assets/grafik (5) (1).png>)
