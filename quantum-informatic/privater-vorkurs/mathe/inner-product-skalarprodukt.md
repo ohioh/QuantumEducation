@@ -7,6 +7,8 @@ description: >-
 
 # "inner product" - Skalarprodukt
 
-![](<../../../.gitbook/assets/grafik (5).png>)
+Für einen detailierte Aufarbeitung hat mir folgender Link geholfen: [https://www.juergen-roth.de/skripte/did\_linalg\_anageo/did\_linalg\_anageo\_4\_skalarprodukt.pdf](https://www.juergen-roth.de/skripte/did\_linalg\_anageo/did\_linalg\_anageo\_4\_skalarprodukt.pdf)
+
+![](<../../../.gitbook/assets/grafik (6).png>)
 
 ![](<../../../.gitbook/assets/grafik (3).png>)

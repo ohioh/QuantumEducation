@@ -27,7 +27,7 @@ Zu der quantenmechanischen Betrachtung gehören neben der "Observablen" bekannte
 
 ![](<../../../.gitbook/assets/grafik (15).png>)
 
-![](<../../../.gitbook/assets/grafik (9).png>)
+![](<../../../.gitbook/assets/grafik (10).png>)
 
 Der Begriff "ERWARTUNGSWERT" bezieht sich auf  den Mittelwert einer Messreihe
 

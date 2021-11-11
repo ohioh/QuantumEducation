@@ -12,7 +12,7 @@ Wir werden heute mit Symbolen arbeiten, die wir noch nicht kennen gelernt haben.
 
 Eine sehr tolle Beschreibung findet ihr hier: [https://medium.com/@mdebdut/quantum-gates-matrix-memorization-cheat-sheet-5541f34cd8fe](https://medium.com/@mdebdut/quantum-gates-matrix-memorization-cheat-sheet-5541f34cd8fe)
 
-![](<../../../.gitbook/assets/grafik (10).png>)
+![](<../../../.gitbook/assets/grafik (10) (1).png>)
 
 ![](<../../../.gitbook/assets/grafik (7) (1).png>)
 
@@ -38,7 +38,7 @@ Lasst uns mal ein ersten Versuch probieren -> der Bell-Test ( der Meilenstein: "
 
 Nun seid ihr gefragt: Welchen State sehen wir hier ß
 
-![](<../../../.gitbook/assets/grafik (8).png>)
+![](<../../../.gitbook/assets/grafik (8) (1).png>)
 
 und hier ?
 
