@@ -53,7 +53,8 @@
 * [Kapitel 1 - Welcome and cold start](quantum-basics/quantumbasics.md)
 * [Kapitel 2](quantum-basics/kapitel-2.md)
 * [Kapitel 3](quantum-basics/kapitel-3.md)
-* [Kapitel 4](quantum-basics/kapitel-4.md)
+* [Kapitel 4](quantum-basics/kapitel-4/README.md)
+  * [Rechnen mit Zuständen](quantum-basics/kapitel-4/rechnen-mit-zustaenden.md)
 
 ## QML-Projects
 
