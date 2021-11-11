@@ -4,7 +4,7 @@ description: Pls learn from this Code and dont "copy&paste" it...
 
 # Code Example:
 
-Iris Datensatz: [https://github.com/ohioh/IntroductionQuantumComputing/blob/main/iris\_classes1and2\_scaled.txt](https://github.com/ohioh/IntroductionQuantumComputing/blob/main/iris\_classes1and2\_scaled.txt)
+Datensätze auf Github: [https://github.com/ohioh/IntroductionQuantumComputing/tree/main/DataSets](https://github.com/ohioh/IntroductionQuantumComputing/tree/main/DataSets)
 
 Classification: Iris-Code-Tutorial: [https://github.com/ohioh/IntroductionQuantumComputing/blob/main/PennyLane\_Variational-Quantum-Linear-Solver.ipynb](https://github.com/ohioh/IntroductionQuantumComputing/blob/main/PennyLane\_Variational-Quantum-Linear-Solver.ipynb)
 
