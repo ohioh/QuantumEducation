@@ -7,6 +7,23 @@
 
 ## Quantum-Informatics <a href="quantum-informatic" id="quantum-informatic"></a>
 
+* ["Privater Vorkurs"](quantum-informatic/privater-vorkurs/README.md)
+  * [Statistik](quantum-informatic/privater-vorkurs/statistik.md)
+  * [Komplexitätstheorie](quantum-informatic/privater-vorkurs/komplexitaetstheorie.md)
+  * [Logik](quantum-informatic/privater-vorkurs/logik.md)
+  * [Python](quantum-informatic/privater-vorkurs/python.md)
+  * [Physik](quantum-informatic/privater-vorkurs/physik.md)
+  * [Stochastik](quantum-informatic/privater-vorkurs/stochastik.md)
+  * [Mathe](quantum-informatic/privater-vorkurs/mathe/README.md)
+    * [Lineare Algebra](quantum-informatic/privater-vorkurs/mathe/lineare-algebra.md)
+    * [Notationen](quantum-informatic/privater-vorkurs/mathe/notationen.md)
+    * [Hilbert-Raum](quantum-informatic/privater-vorkurs/mathe/hilbert-raum.md)
+    * [Komplexe Zahlen](quantum-informatic/privater-vorkurs/mathe/komplexe-zahlen.md)
+    * [Rechnen im Kreis](quantum-informatic/privater-vorkurs/mathe/rechnen-im-kreis.md)
+    * [Die Matrix](quantum-informatic/privater-vorkurs/mathe/die-matrix.md)
+    * [Tensoren](quantum-informatic/privater-vorkurs/mathe/tensoren.md)
+    * [Funktionen n-Ordnung](quantum-informatic/privater-vorkurs/mathe/funktionen-n-ordnung.md)
+    * [Integralrechnung](quantum-informatic/privater-vorkurs/mathe/integralrechnung.md)
 * [Coding-Part](quantum-informatic/coding-part/README.md)
   * [Kapitel 1](<quantum-informatic/coding-part/Kapitel 1/README.md>)
     * [Installation der Arbeitsumgebung](<quantum-informatic/coding-part/Kapitel 1/installation-der-arbeitsumgebung/README.md>)
