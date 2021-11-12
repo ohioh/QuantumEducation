@@ -1,4 +1,13 @@
+---
+description: >-
+  Skalare sind Größen, die einen Zahlenwert, aber keine Richtung haben.
+  Beispiele: Anzahl, Länge, Dichte, Temperatur von Objekten. Vektoren sind
+  Größen, die einen Zahlenwert und eine Richtung haben. ...
+---
+
 # Vektorprodukt bzw. Kreuzprodukt
+
+[\[Quelle\]](https://www.yaclass.at/p/mathematik/9-schulstufe/vektoren-und-analytische-elemente-d-ebene-19742/begriff-des-vektors-20452/re-dd4de3cf-1018-49d1-8812-87a9cfa6e1b4)
 
 ### Unterschiede zwischen dem Skalarprodukt und dem Vektorprodukt
 

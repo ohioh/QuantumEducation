@@ -4,4 +4,4 @@ description: '@Pennylane: https://pennylane.ai/qml/demos/tutorial_unitary_design
 
 # Unitary Designs
 
-![](<../../../.gitbook/assets/grafik (3) (1).png>)
+![](<../../../.gitbook/assets/grafik (3) (1) (1).png>)
