@@ -4,6 +4,8 @@ description: 'a quantum related collecition based on phython language:'
 
 # Additional TOOLs:
 
+Simulator Quirk @ [https://algassert.com/quirk](https://algassert.com/quirk)
+
 QuTIP: [https://qutip.org/](https://qutip.org)  &#x20;
 
 QuEST: [https://quest.qtechtheory.org/](https://quest.qtechtheory.org)
