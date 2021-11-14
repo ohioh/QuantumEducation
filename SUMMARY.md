@@ -53,6 +53,7 @@
     * [Funktionen n-Ordnung](quantum-informatic/euer-privater-vorkurs/mathe/funktionen-n-ordnung.md)
     * [Integralrechnung](quantum-informatic/euer-privater-vorkurs/mathe/integralrechnung.md)
     * [Rechnen im Kreis](quantum-informatic/euer-privater-vorkurs/mathe/rechnen-im-kreis.md)
+    * [Differentia(operator](quantum-informatic/euer-privater-vorkurs/mathe/differentia-operator.md)
 
 ## Quantum-Basics
 
