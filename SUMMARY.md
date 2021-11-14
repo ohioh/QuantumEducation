@@ -69,7 +69,7 @@
 
 ***
 
-* [Page 1](page-1.md)
+* [Practical Examples](practical-examples.md)
 
 ## QML-Projects
 
