@@ -33,4 +33,4 @@ Der Begriff "ERWARTUNGSWERT" bezieht sich auf  den Mittelwert einer Messreihe
 
 Für quantenmechanische Betrachtung  der  realtiven Häufigkeit wird der Begriff der WAHRSCHEINLICHKEIT benutzt. Die "Summe aller Dinge" aus Wahrscheinlichkeit und Mittelwert nennen wir ab nun ZUSTAND.
 
-[Nächster Abschnitt:](../../../quantum-informatic/privater-vorkurs/mathe/hilbert-raum.md)
+[Nächster Abschnitt:](../../../quantum-informatic/euer-privater-vorkurs/mathe/hilbert-raum.md)
