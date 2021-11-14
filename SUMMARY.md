@@ -38,7 +38,9 @@
   * [Physik](quantum-informatic/euer-privater-vorkurs/physik.md)
   * [Stochastik](quantum-informatic/euer-privater-vorkurs/stochastik.md)
   * [Mathe](quantum-informatic/euer-privater-vorkurs/mathe/README.md)
+    * [Einsteins Summenkonventiom](quantum-informatic/euer-privater-vorkurs/mathe/einsteins-summenkonventiom.md)
     * [Symbolbeschreibung](quantum-informatic/euer-privater-vorkurs/mathe/symbolbeschreibung.md)
+    * [Tensor Produkt](quantum-informatic/euer-privater-vorkurs/mathe/tensor-produkt.md)
     * [Inners Produkt vs Kreuzprodukt](quantum-informatic/euer-privater-vorkurs/mathe/inners-produkt-vs-kreuzprodukt.md)
     * [Vektorprodukt bzw. Kreuzprodukt](quantum-informatic/euer-privater-vorkurs/mathe/vektorprodukt-bzw.-kreuzprodukt.md)
     * ["inner product" - Skalarprodukt](quantum-informatic/euer-privater-vorkurs/mathe/inner-product-skalarprodukt.md)
@@ -46,11 +48,11 @@
     * [Notationen](quantum-informatic/euer-privater-vorkurs/mathe/notationen.md)
     * [Hilbert-Raum](quantum-informatic/euer-privater-vorkurs/mathe/hilbert-raum.md)
     * [Komplexe Zahlen](quantum-informatic/euer-privater-vorkurs/mathe/komplexe-zahlen.md)
-    * [Rechnen im Kreis](quantum-informatic/euer-privater-vorkurs/mathe/rechnen-im-kreis.md)
     * [Die Matrix](quantum-informatic/euer-privater-vorkurs/mathe/die-matrix.md)
     * [Tensoren](quantum-informatic/euer-privater-vorkurs/mathe/tensoren.md)
     * [Funktionen n-Ordnung](quantum-informatic/euer-privater-vorkurs/mathe/funktionen-n-ordnung.md)
     * [Integralrechnung](quantum-informatic/euer-privater-vorkurs/mathe/integralrechnung.md)
+    * [Rechnen im Kreis](quantum-informatic/euer-privater-vorkurs/mathe/rechnen-im-kreis.md)
 
 ## Quantum-Basics
 
