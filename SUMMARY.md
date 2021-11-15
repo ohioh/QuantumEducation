@@ -137,3 +137,7 @@
 ## 📖 Documentation
 
 * [Qiskit](documentation/qiskit.md)
+
+***
+
+* [Quantum-Hommage](quantum-hommage.md)
