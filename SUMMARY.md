@@ -132,7 +132,8 @@
 
 * [Additional TOOLs:](cheat-sheets/additional-tools.md)
 * [Collection-Folder](cheat-sheets/collection-folder.md)
-* [Terminal\[Linux\]](cheat-sheets/terminal-linux.md)
+* [Terminal\[Linux\]](cheat-sheets/terminal-linux/README.md)
+  * [Mint](cheat-sheets/terminal-linux/mint.md)
 * [Logik](cheat-sheets/logik.md)
 * [Jupyter-Notebook](cheat-sheets/jupyter-notebook.md)
 * [Numpy](cheat-sheets/numpy.md)
