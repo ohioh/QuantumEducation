@@ -98,6 +98,7 @@
 ## Research-Papers
 
 * [Reading Guide:](research-papers/reading-guide.md)
+* [Machine Learing](research-papers/machine-learing.md)
 * [Komplexitätstheorie](research-papers/komplexitaetstheorie/README.md)
   * [Quantum Komplexität](research-papers/komplexitaetstheorie/quantum-komplexitaet.md)
 * [Physik](research-papers/physik/README.md)
@@ -132,7 +133,7 @@
 
 * [Additional TOOLs:](cheat-sheets/additional-tools.md)
 * [Collection-Folder](cheat-sheets/collection-folder.md)
-* [Terminal\[Linux\]](cheat-sheets/terminal-linux/README.md)
+* [Terminal\[Linux\]](cheat-sheets/terminal-linux.md)
   * [Mint](cheat-sheets/terminal-linux/mint.md)
 * [Logik](cheat-sheets/logik.md)
 * [Jupyter-Notebook](cheat-sheets/jupyter-notebook.md)
