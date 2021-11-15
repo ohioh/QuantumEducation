@@ -30,7 +30,6 @@
     * [Saturday II](quantum-informatic/coding-part/special/saturday-ii.md)
     * [Saturday I](quantum-informatic/coding-part/special/saturday-i.md)
 * ["Euer privater Vorkurs"](quantum-informatic/euer-privater-vorkurs/README.md)
-  * [Notationen](quantum-informatic/euer-privater-vorkurs/notationen.md)
   * [Statistik](quantum-informatic/euer-privater-vorkurs/statistik.md)
   * [Komplexitätstheorie](quantum-informatic/euer-privater-vorkurs/komplexitaetstheorie.md)
   * [Logik](quantum-informatic/euer-privater-vorkurs/logik.md)
@@ -54,6 +53,7 @@
     * [Integralrechnung](quantum-informatic/euer-privater-vorkurs/mathe/integralrechnung.md)
     * [Rechnen im Kreis](quantum-informatic/euer-privater-vorkurs/mathe/rechnen-im-kreis.md)
     * [Differentia(operator](quantum-informatic/euer-privater-vorkurs/mathe/differentia-operator.md)
+  * [Griechisch für Anfänger](quantum-informatic/euer-privater-vorkurs/griechisch-fuer-anfaenger.md)
 
 ## Quantum-Basics
 
