@@ -8,6 +8,8 @@ Video-Crash-Course: [https://www.youtube.com/watch?v=eShyPOLIfYk](https://www.yo
 
 Aufgabe: Such dir eine Aufgabe aus der untenstehenden Liste und wähle ein passenden Datasatz dazu aus und übertrage das Wissen aus dem Tutorial ( bzw. Aufgabe).
 
+Eine weiter schöne Seite zum "nachschlagen": [https://www.quantum-inspire.com/kbase/introduction-to-quantum-computing](https://www.quantum-inspire.com/kbase/introduction-to-quantum-computing)
+
 
 
 ## Point to start:
