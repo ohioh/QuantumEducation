@@ -1,5 +1,5 @@
 ---
-description: '"Spin-Representation"'
+description: '"Spin-Representation" https://de.universaldenker.org/lektionen/1126'
 ---
 
 # Bra-Ket
