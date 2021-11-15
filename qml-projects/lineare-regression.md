@@ -10,7 +10,17 @@ Basis Information:
 
 @Wikipedia: [https://en.wikipedia.org/wiki/Quantum\_algorithm\_for\_linear\_systems\_of\_equations](https://en.wikipedia.org/wiki/Quantum\_algorithm\_for\_linear\_systems\_of\_equations)
 
+@Nature: [https://www.nature.com/articles/s41598-021-01445](https://www.nature.com/articles/s41598-021-01445-6)[https://www.nature.com/articles/s41598-021-01445-6.pdf](https://www.nature.com/articles/s41598-021-01445-6.pdf)
+
+Article@Nature:
+
+[https://www.nature.com/articles/s41598-021-01445-6.pdf](https://www.nature.com/articles/s41598-021-01445-6.pdf)
+
 Research
+
+Quantum Circuit Design Methodology for Multiple Linear Regression
+
+[https://arxiv.org/pdf/1811.01726.pdf](https://arxiv.org/pdf/1811.01726.pdf)
 
 Prediction by linear regression on a quantum computer:
 

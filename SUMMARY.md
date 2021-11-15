@@ -76,7 +76,7 @@
 
 * [Code Example:](qml-projects/code-example.md)
 * [Classification](qml-projects/classification.md)
-* [Regression](qml-projects/regression.md)
+* [Regression](qml-projects/lineare-regression.md)
 * [Project Theme](qml-projects/project-theme/README.md)
   * [The Quantum Graph Recurrent Neural Network](qml-projects/project-theme/the-quantum-graph-recurrent-neural-network.md)
   * [Quantum circuit structure learning](qml-projects/project-theme/quantum-circuit-structure-learning.md)
