@@ -53,7 +53,7 @@
     * [Integralrechnung](quantum-informatic/euer-privater-vorkurs/mathe/integralrechnung.md)
     * [Rechnen im Kreis](quantum-informatic/euer-privater-vorkurs/mathe/rechnen-im-kreis.md)
     * [Differentia(operator](quantum-informatic/euer-privater-vorkurs/mathe/differentia-operator.md)
-  * [Griechisch für Anfänger](quantum-informatic/euer-privater-vorkurs/griechisch-fuer-anfaenger.md)
+  * [Griechisch für Anfänger](quantum-informatic/euer-privater-vorkurs/notationen.md)
 
 ## Quantum-Basics
 
@@ -98,9 +98,11 @@
   * [Quantum Komplexität](research-papers/komplexitaetstheorie/quantum-komplexitaet.md)
 * [Physik](research-papers/physik/README.md)
   * [Feynman Lectures](research-papers/physik/feynman-lectures.md)
+* [Spin 1/2 (Fermion)](research-papers/spin-1-2-fermion.md)
 * [Collection\[unsorted\]](research-papers/collection-unsorted.md)
 * [Quanten-Physik](research-papers/quanten-physik.md)
 * [Quantum-Informatik](research-papers/quantum-informatik.md)
+* [Visualisation](research-papers/visualisation.md)
 * [Quanten-Mechanik](research-papers/quanten-mechanik/README.md)
   * [Quantenmechanische Gleichungen](research-papers/quanten-mechanik/quantenmechanische-gleichungen.md)
   * [Wellen-Gleichung](research-papers/quanten-mechanik/wellen-gleichung.md)

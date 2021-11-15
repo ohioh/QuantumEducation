@@ -1,4 +1,4 @@
-# Notationen
+# Griechisch für Anfänger
 
 Griechische Buchstaben:
 
