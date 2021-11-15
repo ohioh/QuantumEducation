@@ -59,6 +59,7 @@
 
 * [Literatur-Liste:](quantum-basics/literatur-liste.md)
 * [Kapitel 1 - Welcome and cold start](quantum-basics/quantumbasics.md)
+* [DSE meets Quantum](quantum-basics/dse-meets-quantum.md)
 * [Kapitel 2](quantum-basics/kapitel-2.md)
 * [Kapitel 3](quantum-basics/kapitel-3.md)
 * [Kapitel 4](quantum-basics/kapitel-4.md)
@@ -74,6 +75,8 @@
 ## QML-Projects
 
 * [Code Example:](qml-projects/code-example.md)
+* [Classification](qml-projects/classification.md)
+* [Lineare Regression](qml-projects/lineare-regression.md)
 * [Project Theme](qml-projects/project-theme/README.md)
   * [The Quantum Graph Recurrent Neural Network](qml-projects/project-theme/the-quantum-graph-recurrent-neural-network.md)
   * [Quantum circuit structure learning](qml-projects/project-theme/quantum-circuit-structure-learning.md)
@@ -109,7 +112,10 @@
 * [Quantum-Hardware](research-papers/quantum-hardware/README.md)
   * [Quantum Trapping](research-papers/quantum-hardware/quantum-trapping.md)
 * [Hardware Vergleich](research-papers/hardware-vergleich.md)
-* [Algorithmen](research-papers/algorithmen.md)
+* [Algorithmen](research-papers/algorithmen/README.md)
+  * [Shor-Algorithm for Prime Factorization](research-papers/algorithmen/shor-algorithm-for-prime-factorization.md)
+  * [Classification](research-papers/algorithmen/classification.md)
+  * [Regression](research-papers/algorithmen/regression.md)
 * [Quantum-Simulation](research-papers/quantum-simulation/README.md)
   * [QiBo -Simulation](research-papers/quantum-simulation/qibo-simulation.md)
 
