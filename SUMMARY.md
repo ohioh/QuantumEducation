@@ -60,6 +60,7 @@
     * [Integralrechnung](quantum-informatic/euer-privater-vorkurs/mathe/integralrechnung.md)
     * [Rechnen im Kreis](quantum-informatic/euer-privater-vorkurs/mathe/rechnen-im-kreis.md)
     * [Differentia(operator](quantum-informatic/euer-privater-vorkurs/mathe/differentia-operator.md)
+  * [offtopic](quantum-informatic/euer-privater-vorkurs/offtopic.md)
   * [Griechisch für Anfänger](quantum-informatic/euer-privater-vorkurs/notationen.md)
 
 ## Quantum-Basics
