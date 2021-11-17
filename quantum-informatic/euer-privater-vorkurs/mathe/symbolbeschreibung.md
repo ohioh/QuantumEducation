@@ -8,4 +8,4 @@ Kreuzprodukt
 
 ![](<../../../.gitbook/assets/grafik (12).png>)
 
-![](<../../../.gitbook/assets/grafik (9).png>)
+![](<../../../.gitbook/assets/grafik (9) (1).png>)

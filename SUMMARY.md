@@ -64,7 +64,7 @@
   * [DataScience](quantum-informatic/euer-privater-vorkurs/datascience.md)
   * [offtopic](quantum-informatic/euer-privater-vorkurs/offtopic/README.md)
     * [Neuronale Netze](quantum-informatic/euer-privater-vorkurs/offtopic/neuronale-netze.md)
-    * [LibreOffice Math](quantum-informatic/euer-privater-vorkurs/offtopic/libreoffice-math/README.md)
+    * [LibreOffice Math](quantum-informatic/euer-privater-vorkurs/offtopic/libreoffice-math.md)
       * [Symbole](quantum-informatic/euer-privater-vorkurs/offtopic/libreoffice-math/symbole.md)
   * [Griechisch für Anfänger](quantum-informatic/euer-privater-vorkurs/notationen.md)
 
@@ -141,6 +141,7 @@
 ## Cheat-Sheets
 
 * [Additional TOOLs:](cheat-sheets/additional-tools.md)
+* [Code Book Quantum](cheat-sheets/code-book-quantum.md)
 * [Collection-Folder](cheat-sheets/collection-folder.md)
 * [Terminal\[Linux\]](cheat-sheets/terminal-linux.md)
   * [Mint](cheat-sheets/terminal-linux/mint.md)

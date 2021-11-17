@@ -16,3 +16,14 @@ stack{ left langle %PHI mline right none left none %psi right rangle = a\_{1}_c\
 
 }
 
+![](<../../../../.gitbook/assets/grafik (9).png>)
+
+stack{ left none mline %psi right rangle&#x20;
+
+a\_{1} \*left none mline X right rangle
+
+* a\_{2}\* left none mline Y right rangle
+* a\_{3}\* left none mline Z right rangle
+
+}
+
