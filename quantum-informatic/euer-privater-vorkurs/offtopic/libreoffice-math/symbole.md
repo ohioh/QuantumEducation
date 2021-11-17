@@ -27,3 +27,6 @@ a\_{1} \*left none mline X right rangle
 
 }
 
+![](<../../../../.gitbook/assets/grafik (17).png>)
+
+stack{ (abs{left langle X mline right none left none %psi right rangle}) ^{2} = a\_{1} \* a\_{ 1 } sup "\*" }
