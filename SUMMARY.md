@@ -64,8 +64,8 @@
   * [DataScience](quantum-informatic/euer-privater-vorkurs/datascience.md)
   * [offtopic](quantum-informatic/euer-privater-vorkurs/offtopic/README.md)
     * [Neuronale Netze](quantum-informatic/euer-privater-vorkurs/offtopic/neuronale-netze.md)
-    * [LibreOffice Math](quantum-informatic/euer-privater-vorkurs/offtopic/libreoffice-math.md)
-  * [Symbole](quantum-informatic/euer-privater-vorkurs/symbole.md)
+    * [LibreOffice Math](quantum-informatic/euer-privater-vorkurs/offtopic/libreoffice-math/README.md)
+      * [Symbole](quantum-informatic/euer-privater-vorkurs/offtopic/libreoffice-math/symbole.md)
   * [Griechisch für Anfänger](quantum-informatic/euer-privater-vorkurs/notationen.md)
 
 ## Quantum-Basics
