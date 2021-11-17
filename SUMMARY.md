@@ -40,6 +40,7 @@
   * [Mathe](quantum-informatic/euer-privater-vorkurs/mathe/README.md)
     * [Hilbert-Raum](quantum-informatic/euer-privater-vorkurs/mathe/hilbert-raum/README.md)
       * [Operatoren im Hilbertraum](quantum-informatic/euer-privater-vorkurs/mathe/hilbert-raum/operatoren-im-hilbertraum.md)
+    * [Vector Calculus](quantum-informatic/euer-privater-vorkurs/mathe/vector-calculus.md)
     * [Basics:](quantum-informatic/euer-privater-vorkurs/mathe/basics.md)
     * [Einfach:](quantum-informatic/euer-privater-vorkurs/mathe/einfach.md)
     * [Mittel:](quantum-informatic/euer-privater-vorkurs/mathe/mittel.md)
@@ -60,7 +61,9 @@
     * [Integralrechnung](quantum-informatic/euer-privater-vorkurs/mathe/integralrechnung.md)
     * [Rechnen im Kreis](quantum-informatic/euer-privater-vorkurs/mathe/rechnen-im-kreis.md)
     * [Differentia(operator](quantum-informatic/euer-privater-vorkurs/mathe/differentia-operator.md)
+  * [DataScience](quantum-informatic/euer-privater-vorkurs/datascience.md)
   * [offtopic](quantum-informatic/euer-privater-vorkurs/offtopic.md)
+  * [LibreOffice Math](quantum-informatic/euer-privater-vorkurs/libreoffice-math.md)
   * [Griechisch für Anfänger](quantum-informatic/euer-privater-vorkurs/notationen.md)
 
 ## Quantum-Basics
