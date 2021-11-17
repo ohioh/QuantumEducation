@@ -25,4 +25,4 @@ Unterschiede gibt es auch bei den Rechenvorschriften, beim Skalarprodukt gilt da
 
 
 
-![](<../../../.gitbook/assets/grafik (8).png>)
+![](<../../../.gitbook/assets/grafik (8) (1).png>)

@@ -38,7 +38,7 @@ Lasst uns mal ein ersten Versuch probieren -> der Bell-Test ( der Meilenstein: "
 
 Nun seid ihr gefragt: Welchen State sehen wir hier ß
 
-![](<../../../.gitbook/assets/grafik (8) (1).png>)
+![](<../../../.gitbook/assets/grafik (8) (1) (1).png>)
 
 und hier ?
 
