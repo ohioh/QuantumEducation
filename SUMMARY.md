@@ -62,8 +62,9 @@
     * [Rechnen im Kreis](quantum-informatic/euer-privater-vorkurs/mathe/rechnen-im-kreis.md)
     * [Differentia(operator](quantum-informatic/euer-privater-vorkurs/mathe/differentia-operator.md)
   * [DataScience](quantum-informatic/euer-privater-vorkurs/datascience.md)
-  * [offtopic](quantum-informatic/euer-privater-vorkurs/offtopic.md)
-  * [LibreOffice Math](quantum-informatic/euer-privater-vorkurs/libreoffice-math.md)
+  * [offtopic](quantum-informatic/euer-privater-vorkurs/offtopic/README.md)
+    * [Neuronale Netze](quantum-informatic/euer-privater-vorkurs/offtopic/neuronale-netze.md)
+    * [LibreOffice Math](quantum-informatic/euer-privater-vorkurs/offtopic/libreoffice-math.md)
   * [Griechisch für Anfänger](quantum-informatic/euer-privater-vorkurs/notationen.md)
 
 ## Quantum-Basics
