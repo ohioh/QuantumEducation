@@ -130,6 +130,7 @@
   * [Quantum Trapping](research-papers/quantum-hardware/quantum-trapping.md)
 * [Hardware Vergleich](research-papers/hardware-vergleich.md)
 * [Algorithmen](research-papers/algorithmen/README.md)
+  * [Shor-Algorithm](research-papers/algorithmen/shor-algorithm.md)
   * [Grover's algorithm](research-papers/algorithmen/grovers-algorithm.md)
   * [Deutsch-Josza](research-papers/algorithmen/deutsch-josza.md)
   * [Shor-Algorithm for Prime Factorization](research-papers/algorithmen/shor-algorithm-for-prime-factorization.md)
