@@ -125,6 +125,7 @@
   * [Quantenmechanische Gleichungen](research-papers/quanten-mechanik/quantenmechanische-gleichungen.md)
   * [Wellen-Gleichung](research-papers/quanten-mechanik/wellen-gleichung.md)
   * [Wellen-Funktion](research-papers/quanten-mechanik/wellen-funktion.md)
+  * ["The fundamental idea of wave mechanics " Schrödinger](research-papers/quanten-mechanik/the-fundamental-idea-of-wave-mechanics-schroedinger.md)
   * [Spin](research-papers/quanten-mechanik/spin.md)
 * [Quantum-Mathe](research-papers/quantum-mathe.md)
 * [Bra-Ket](research-papers/bra-ket.md)
