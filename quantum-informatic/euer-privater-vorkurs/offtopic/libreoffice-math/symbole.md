@@ -27,6 +27,28 @@ a\_{1} \*left none mline X right rangle
 
 }
 
+![](<../../../../.gitbook/assets/grafik (10).png>)
+
+```
+stack{ 
+lline  size 15 {%psi} size 20 {x}  size 15 {%psi} rline  =
+ left ( stack{
+ a_{1}a_{1}sup "*" * a_{1}a_{2}sup "*" * a_{1}a_{3} sup "*" 
+ #
+  a_{2}a_{1}sup "*" * a_{2}a_{2}sup "*" * a_{2}a_{3} sup "*" 
+  # 
+  a_{3}a_{1}sup "*" * a_{3}a_{2}sup "*" * a_{3}a_{3} sup "*"
+  } right )  
+}
+```
+
 ![](<../../../../.gitbook/assets/grafik (17).png>)
 
-stack{ (abs{left langle X mline right none left none %psi right rangle}) ^{2} = a\_{1} \* a\_{ 1 } sup "\*" }
+```
+stack{ 
+(abs{left langle X mline right none left none %psi right rangle}) ^{2} 
+= 
+a_{1} * a_{ 1 } sup "*" 
+}
+```
+

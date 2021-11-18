@@ -4,7 +4,7 @@ Kreuzprodukt
 
 
 
-![](<../../../.gitbook/assets/grafik (7).png>)
+![](<../../../.gitbook/assets/grafik (7) (1).png>)
 
 ![](<../../../.gitbook/assets/grafik (12).png>)
 

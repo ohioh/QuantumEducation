@@ -12,13 +12,13 @@ Wir werden heute mit Symbolen arbeiten, die wir noch nicht kennen gelernt haben.
 
 Eine sehr tolle Beschreibung findet ihr hier: [https://medium.com/@mdebdut/quantum-gates-matrix-memorization-cheat-sheet-5541f34cd8fe](https://medium.com/@mdebdut/quantum-gates-matrix-memorization-cheat-sheet-5541f34cd8fe)
 
-![](<../../../.gitbook/assets/grafik (10) (1).png>)
+![](<../../../.gitbook/assets/grafik (10) (1) (1).png>)
 
-![](<../../../.gitbook/assets/grafik (7) (1).png>)
+![](<../../../.gitbook/assets/grafik (7) (1) (1).png>)
 
 Aber wo ist Qiskit ? Dokumentation: [https://qiskit.org/documentation/locale/de\_DE/index.html](https://qiskit.org/documentation/locale/de\_DE/index.html)
 
-![](<../../../.gitbook/assets/grafik (2) (1).png>)
+![](<../../../.gitbook/assets/grafik (2) (1) (1).png>)
 
 Auch wenn wir später erst zu diesem Feature von IBM kommen, sei schon mal gesagt das der Composer mit dem Lab zusammen arbeiten kann... Codeless Progress :-) Schau dafür mal unter /View/Code-Editor ( im Composer )
 
