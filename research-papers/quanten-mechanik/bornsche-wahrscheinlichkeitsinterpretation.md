@@ -1,3 +1,7 @@
+---
+description: '@pdf http://www.psiquadrat.de/downloads/born26_stossvorgaenge.pdf'
+---
+
 # Born'sche Wahrscheinlichkeitsinterpretation
 
 @wiki [https://de.wikipedia.org/wiki/Bornsche\_Wahrscheinlichkeitsinterpretation](https://de.wikipedia.org/wiki/Bornsche\_Wahrscheinlichkeitsinterpretation)
