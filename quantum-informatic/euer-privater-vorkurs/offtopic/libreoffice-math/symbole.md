@@ -16,7 +16,7 @@ stack{ left langle %PHI mline right none left none %psi right rangle = a\_{1}_c\
 
 }
 
-![](<../../../../.gitbook/assets/grafik (9).png>)
+![](<../../../../.gitbook/assets/grafik (9) (1).png>)
 
 stack{ left none mline %psi right rangle&#x20;
 
@@ -52,3 +52,20 @@ a_{1} * a_{ 1 } sup "*"
 }
 ```
 
+![](<../../../../.gitbook/assets/grafik (5).png>)
+
+```
+stack{ 
+left none mline %psi  right rangle  =
+  
+  color aqua {%alpha *  left none mline 0 right rangle  }
+  +
+  color aqua {%beta  *  left none mline 1 right rangle  }   
+}
+```
+
+![](<../../../../.gitbook/assets/grafik (9).png>)
+
+```
+ abs{%alpha}^2 + abs{%beta}^2 = 1
+```

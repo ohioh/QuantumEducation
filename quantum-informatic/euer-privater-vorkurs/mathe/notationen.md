@@ -1,3 +1,3 @@
 # Notationen
 
-![](<../../../.gitbook/assets/grafik (5).png>)
+![](<../../../.gitbook/assets/grafik (5) (1).png>)
