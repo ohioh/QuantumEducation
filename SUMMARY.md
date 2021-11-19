@@ -162,6 +162,7 @@
 
 ## 📖 Documentation
 
+* [Pennylane](documentation/pennylane.md)
 * [Qiskit](documentation/qiskit.md)
 
 ***
