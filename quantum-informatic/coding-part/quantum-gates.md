@@ -32,7 +32,7 @@ Hadamard:  [https://pennylane.readthedocs.io/en/stable/code/api/pennylane.Hadama
 
 CNOT: [https://pennylane.readthedocs.io/en/stable/code/api/pennylane.CNOT.html](https://pennylane.readthedocs.io/en/stable/code/api/pennylane.CNOT.html)
 
-![](<../../.gitbook/assets/grafik (2) (1).png>)
+![](<../../.gitbook/assets/grafik (2) (1) (1).png>)
 
 ### The controlled-Z operator
 

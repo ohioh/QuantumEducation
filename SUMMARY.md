@@ -42,7 +42,8 @@
       * [Operatoren im Hilbertraum](quantum-informatic/euer-privater-vorkurs/mathe/hilbert-raum/operatoren-im-hilbertraum.md)
     * [Vector Calculus](quantum-informatic/euer-privater-vorkurs/mathe/vector-calculus.md)
     * [Basics:](quantum-informatic/euer-privater-vorkurs/mathe/basics.md)
-    * [Einfach:](quantum-informatic/euer-privater-vorkurs/mathe/einfach.md)
+    * [Einfach:](quantum-informatic/euer-privater-vorkurs/mathe/einfach/README.md)
+      * [Vektoren](quantum-informatic/euer-privater-vorkurs/mathe/einfach/vektoren.md)
     * [Mittel:](quantum-informatic/euer-privater-vorkurs/mathe/mittel.md)
     * [Schwer:](quantum-informatic/euer-privater-vorkurs/mathe/schwer.md)
     * [Einsteins Summenkonventiom](quantum-informatic/euer-privater-vorkurs/mathe/einsteins-summenkonventiom.md)
@@ -165,3 +166,8 @@
 ***
 
 * [Quantum-Hommage](quantum-hommage.md)
+* [Page 1](page-1.md)
+
+## Group 1
+
+* [Acknowledge](group-1/acknowledge.md)

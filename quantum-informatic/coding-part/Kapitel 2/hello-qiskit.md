@@ -18,7 +18,7 @@ Eine sehr tolle Beschreibung findet ihr hier: [https://medium.com/@mdebdut/quant
 
 Aber wo ist Qiskit ? Dokumentation: [https://qiskit.org/documentation/locale/de\_DE/index.html](https://qiskit.org/documentation/locale/de\_DE/index.html)
 
-![](<../../../.gitbook/assets/grafik (2) (1) (1).png>)
+![](<../../../.gitbook/assets/grafik (2) (1) (1) (1).png>)
 
 Auch wenn wir später erst zu diesem Feature von IBM kommen, sei schon mal gesagt das der Composer mit dem Lab zusammen arbeiten kann... Codeless Progress :-) Schau dafür mal unter /View/Code-Editor ( im Composer )
 
