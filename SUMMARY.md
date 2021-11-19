@@ -156,6 +156,7 @@
 * [Jupyter-Notebook](cheat-sheets/jupyter-notebook.md)
 * [Numpy](cheat-sheets/numpy.md)
 * [Pennylane](cheat-sheets/pennylane.md)
+* [komplexe Zahlen](cheat-sheets/komplexe-zahlen.md)
 * [Anaconda](cheat-sheets/anaconda.md)
 * [Pyhton](cheat-sheets/pyhton.md)
 
