@@ -84,7 +84,7 @@
 
 ***
 
-* [Practical Examples](practical-examples.md)
+* [Practical Tool - Circuit Builder](practical-tool-circuit-builder.md)
 
 ## QML-Projects
 

@@ -6,7 +6,7 @@ description: >-
 
 # First steps /w Python
 
-![](<../../../.gitbook/assets/grafik (3) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/grafik (3) (1) (1) (1) (1).png>)
 
 Rechnen mit Python ( auch in IPython )
 

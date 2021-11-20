@@ -11,6 +11,6 @@ Für einen detailierte Aufarbeitung hat mir folgender Link geholfen: [https://ww
 
 Anwendungen des Skalarprodukts:                                                                                     Abstandsbestimmung :                                                                                                                              Punkt ↔Gerade,                                                                                                                                 Ebene ↔Gerade                                                                                                                                        parallele Geraden: (z. B. zur Flächenberechnung)                                                                                                                  Windschiefe Geraden Berechnung von Schnittwinkeln :                                                                                   Gerade ↔Gerade, Ebene ↔Ebene                                                                                                                                                                                                                                                        Prüfen auf Orthogonalität:                                                                                                                     Gerade ↔Gerade, Ebene ↔Ebene Bestimmung Normalenvektor, Normalengleichung einer Ebene
 
-![](<../../../.gitbook/assets/grafik (6) (1).png>)
+![](<../../../.gitbook/assets/grafik (6) (1) (1).png>)
 
-![](<../../../.gitbook/assets/grafik (3) (1).png>)
+![](<../../../.gitbook/assets/grafik (3) (1) (1).png>)
