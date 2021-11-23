@@ -4,7 +4,7 @@ description: 'Editor: https://algassert.com/quirk'
 
 # Practical Tool - Circuit Builder
 
-![](<.gitbook/assets/grafik (3).png>)
+![](<.gitbook/assets/grafik (3) (1).png>)
 
 alternative : [https://quantum-computing.ibm.com/composer/docs/iqx/build-circuits](https://quantum-computing.ibm.com/composer/docs/iqx/build-circuits)
 

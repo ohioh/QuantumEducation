@@ -17,7 +17,7 @@ Unterschiede gibt es auch bei den Rechenvorschriften, beim Skalarprodukt gilt da
 
 ![](<../../../.gitbook/assets/grafik (5) (1) (1).png>)
 
-![](<../../../.gitbook/assets/grafik (3) (1).png>)
+![](<../../../.gitbook/assets/grafik (3) (1) (1).png>)
 
 ![](<../../../.gitbook/assets/grafik (4) (1).png>)
 
