@@ -96,6 +96,7 @@
 
 ## QML-Projects
 
+* [Optimizer](qml-projects/optimizer.md)
 * [Code Example:](qml-projects/code-example.md)
 * [Classification](qml-projects/classification.md)
 * [Regression](qml-projects/lineare-regression.md)
@@ -171,6 +172,7 @@
 
 ## 📖 Documentation
 
+* [NetworkX](documentation/networkx.md)
 * [Anaconda](documentation/anaconda.md)
 * [Pennylane](documentation/pennylane.md)
 * [Qiskit](documentation/qiskit.md)
