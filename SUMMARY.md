@@ -87,6 +87,8 @@
     * [Hilbert-Raum](quantum-basics/kapitel-4/rechnen-mit-zustaenden/hilbert-raum.md)
     * [selbstadjunktierter Operator mit Spur N](quantum-basics/kapitel-4/rechnen-mit-zustaenden/selbstadjunktierter-operator-mit-spur-n.md)
     * [unitärer Operator](quantum-basics/kapitel-4/rechnen-mit-zustaenden/unitaerer-operator.md)
+* [Kapitel 5](quantum-basics/kapitel-5.md)
+* [Axiome der Quanten-Mechanik](quantum-basics/axiome-der-quanten-mechanik.md)
 
 ***
 
@@ -174,7 +176,9 @@
 ***
 
 * [Quantum-Hommage](quantum-hommage.md)
-* [Page 1](page-1.md)
+* [Schrödingers Gleichung](schroedingers-gleichung.md)
+* [Dirac–von Neumann axioms](dirac-von-neumann-axioms.md)
+* [William Rowan Hamilton](william-rowan-hamilton.md)
 
 ## Group 1
 

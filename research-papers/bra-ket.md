@@ -6,7 +6,7 @@ description: '"Spin-Representation" https://de.universaldenker.org/lektionen/112
 
 Beispiel:
 
-$$|ψ⟩electron=a|0⟩+b|1⟩$$ (tNormalisierung: ![](<../.gitbook/assets/grafik (4).png>) mit $$a,b∈C$$
+$$|ψ⟩electron=a|0⟩+b|1⟩$$ (Normalisierung: ![](<../.gitbook/assets/grafik (4).png>) mit $$a,b∈C$$
 
 &#x20;_ket_ $$|ψ⟩$$ ist ein Vektor, ein  _bra_ $$⟨ψ|$$  ist eine "hermaltonian conjugation" von dem Ket Vektor
 
@@ -23,5 +23,7 @@ Komplexe konjungierte Elemente:&#x20;
 [https://www.mathsisfun.com/physics/bra-ket-notation.html](https://www.mathsisfun.com/physics/bra-ket-notation.html)
 
 [https://quantumparticle.univie.ac.at/fileadmin/user\_upload/a\_quantumparticle/BraKetHP.pdf](https://quantumparticle.univie.ac.at/fileadmin/user\_upload/a\_quantumparticle/BraKetHP.pdf)
+
+[https://ocw.mit.edu/courses/physics/8-05-quantum-physics-ii-fall-2013/lecture-notes/MIT8\_05F13\_Chap\_04.pdf](https://ocw.mit.edu/courses/physics/8-05-quantum-physics-ii-fall-2013/lecture-notes/MIT8\_05F13\_Chap\_04.pdf)
 
 [https://www.yumpu.com/de/document/read/12211750/gedankenexperimente-in-der-quantenmechanik](https://www.yumpu.com/de/document/read/12211750/gedankenexperimente-in-der-quantenmechanik)
