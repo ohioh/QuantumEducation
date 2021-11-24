@@ -171,12 +171,13 @@
 
 ## 📖 Documentation
 
+* [Anaconda](documentation/anaconda.md)
 * [Pennylane](documentation/pennylane.md)
 * [Qiskit](documentation/qiskit.md)
 
 ***
 
-* [Quantum-Hommage](quantum-hommage/README.md)
-  * [William Rowan Hamilton](quantum-hommage/william-rowan-hamilton.md)
+* [Quantum-Hommage](quantum-hommage.md)
+  * [William Rowan Hamilton](page-1.md)
   * [Dirac–von Neumann axioms](quantum-hommage/dirac-von-neumann-axioms.md)
   * [Schrödingers Gleichung](quantum-hommage/schroedingers-gleichung.md)
