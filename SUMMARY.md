@@ -151,6 +151,7 @@
   * [Classification](research-papers/algorithmen/classification.md)
   * [Regression](research-papers/algorithmen/regression.md)
 * [Quantum-Simulation](research-papers/quantum-simulation/README.md)
+  * [Hamiltonian simulation](research-papers/quantum-simulation/hamiltonian-simulation.md)
   * [QiBo -Simulation](research-papers/quantum-simulation/qibo-simulation.md)
 
 ## Cheat-Sheets
@@ -175,11 +176,7 @@
 
 ***
 
-* [Quantum-Hommage](quantum-hommage.md)
-* [Schrödingers Gleichung](schroedingers-gleichung.md)
-* [Dirac–von Neumann axioms](dirac-von-neumann-axioms.md)
-* [William Rowan Hamilton](william-rowan-hamilton.md)
-
-## Group 1
-
-* [Acknowledge](group-1/acknowledge.md)
+* [Quantum-Hommage](quantum-hommage/README.md)
+  * [William Rowan Hamilton](quantum-hommage/william-rowan-hamilton.md)
+  * [Dirac–von Neumann axioms](quantum-hommage/dirac-von-neumann-axioms.md)
+  * [Schrödingers Gleichung](quantum-hommage/schroedingers-gleichung.md)
