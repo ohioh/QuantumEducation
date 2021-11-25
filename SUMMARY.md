@@ -38,6 +38,7 @@
     * [Einstieg Quanten-Mechanik](quantum-informatic/euer-privater-vorkurs/physik/einstieg-quanten-mechanik.md)
   * [Stochastik](quantum-informatic/euer-privater-vorkurs/stochastik.md)
   * [Mathe](quantum-informatic/euer-privater-vorkurs/mathe/README.md)
+    * [EigenValues](quantum-informatic/euer-privater-vorkurs/mathe/eigenvalues.md)
     * [Hilbert-Raum](quantum-informatic/euer-privater-vorkurs/mathe/hilbert-raum/README.md)
       * [Operatoren im Hilbertraum](quantum-informatic/euer-privater-vorkurs/mathe/hilbert-raum/operatoren-im-hilbertraum.md)
     * [Vector Calculus](quantum-informatic/euer-privater-vorkurs/mathe/vector-calculus.md)
