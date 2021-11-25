@@ -6,7 +6,7 @@ description: '"Spin-Representation" https://de.universaldenker.org/lektionen/112
 
 Beispiel:
 
-$$|ψ⟩electron=a|0⟩+b|1⟩$$ (Normalisierung: ![](<../.gitbook/assets/grafik (4).png>) mit $$a,b∈C$$
+$$|ψ⟩electron=a|0⟩+b|1⟩$$ (Normalisierung: ![](<../.gitbook/assets/grafik (4) (1).png>) mit $$a,b∈C$$
 
 &#x20;_ket_ $$|ψ⟩$$ ist ein Vektor, ein  _bra_ $$⟨ψ|$$  ist eine "hermaltonian conjugation" von dem Ket Vektor
 

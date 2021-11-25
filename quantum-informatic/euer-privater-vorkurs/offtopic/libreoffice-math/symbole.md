@@ -27,7 +27,7 @@ a\_{1} \*left none mline X right rangle
 
 }
 
-![](<../../../../.gitbook/assets/grafik (10).png>)
+![](<../../../../.gitbook/assets/grafik (10) (1).png>)
 
 ```
 stack{ 
