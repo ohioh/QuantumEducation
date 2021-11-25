@@ -172,7 +172,9 @@
 
 ## 📖 Documentation
 
-* [NetworkX](documentation/networkx.md)
+* [Python](documentation/python/README.md)
+  * [NetworkX](documentation/python/networkx.md)
+  * [MatPlotLib](documentation/python/matplotlib.md)
 * [Anaconda](documentation/anaconda.md)
 * [Pennylane](documentation/pennylane.md)
 * [Qiskit](documentation/qiskit.md)
