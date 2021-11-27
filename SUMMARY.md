@@ -209,3 +209,5 @@
   * [William Rowan Hamilton](page-1.md)
   * [Dirac–von Neumann axioms](quantum-hommage/dirac-von-neumann-axioms.md)
   * [Schrödingers Gleichung](quantum-hommage/schroedingers-gleichung.md)
+  * [von Neumann Landauer Limit](quantum-hommage/von-neumann-landauer-limit.md)
+  * [Deutsch-Joza](quantum-hommage/deutsch-joza.md)
