@@ -21,7 +21,7 @@
   * [Kapitel 3](quantum-informatic/coding-part/kapitel-3.md)
   * [Quantum-Gates](quantum-informatic/coding-part/quantum-gates.md)
   * [First own steps](quantum-informatic/coding-part/first-own-steps.md)
-  * [Kapitel 6](quantum-informatic/coding-part/kapitel-6.md)
+  * [Kapitel 6 - Quantum-Code](quantum-informatic/coding-part/kapitel-6-quantum-code.md)
   * [Kapitel 7](quantum-informatic/coding-part/kapitel-7.md)
   * [Kapitel 8](quantum-informatic/coding-part/kapitel-8.md)
   * [Kapitel 9](quantum-informatic/coding-part/kapitel-9.md)
