@@ -21,7 +21,7 @@
   * [Kapitel 3](quantum-informatic/coding-part/kapitel-3.md)
   * [Quantum-Gates](quantum-informatic/coding-part/quantum-gates.md)
   * [First own steps](quantum-informatic/coding-part/first-own-steps.md)
-  * [Kapitel 6 - Quantum-Code](quantum-informatic/coding-part/kapitel-6-quantum-code.md)
+  * [Kapitel 6 - Quantum-Code](quantum-informatic/coding-part/kapitel-6.md)
   * [Kapitel 7](quantum-informatic/coding-part/kapitel-7.md)
   * [Kapitel 8](quantum-informatic/coding-part/kapitel-8.md)
   * [Kapitel 9](quantum-informatic/coding-part/kapitel-9.md)
@@ -149,7 +149,8 @@
 * [Spin 1/2 (Fermion)](research-papers/spin-1-2-fermion.md)
 * [Collection\[unsorted\]](research-papers/collection-unsorted.md)
 * [Quanten-Physik](research-papers/quanten-physik.md)
-* [Quantum-Informatik](research-papers/quantum-informatik.md)
+* [Quantum-Informatik](research-papers/quantum-informatik/README.md)
+  * [UCSM Unit cycle state machine](research-papers/quantum-informatik/ucsm-unit-cycle-state-machine.md)
 * [Visualisation](research-papers/visualisation.md)
 * [Quanten-Mechanik](research-papers/quanten-mechanik/README.md)
   * [Mathematische Grundlagen:](research-papers/quanten-mechanik/mathematische-grundlagen.md)
@@ -207,6 +208,7 @@
 ***
 
 * [Quantum-Hommage](quantum-hommage.md)
+  * [Andrew Helwer](quantum-hommage/andrew-helwer.md)
   * [William Rowan Hamilton](page-1.md)
   * [Bell's Theorie: Das Quanten-Venn-Diagramm-Paradoxon](quantum-hommage/bells-theorie-das-quanten-venn-diagramm-paradoxon.md)
   * [Dirac–von Neumann axioms](quantum-hommage/dirac-von-neumann-axioms.md)
