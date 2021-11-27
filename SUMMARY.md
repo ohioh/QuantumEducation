@@ -201,7 +201,8 @@
 * [Anaconda](documentation/anaconda.md)
 * [Pennylane](documentation/pennylane.md)
 * [Qiskit](documentation/qiskit.md)
-* [Quantum-Gates](documentation/quantum-gates.md)
+* [Quantum-Gates](documentation/quantum-gates/README.md)
+  * [density matrix](documentation/quantum-gates/density-matrix.md)
 
 ***
 

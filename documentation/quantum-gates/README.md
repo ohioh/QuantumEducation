@@ -12,16 +12,16 @@ description: '@Glimpse ( coming soon )'
 
 [https://www.asc.ohio-state.edu/perry.6/p5501\_sp17/articles/quantum\_gates.pdf](https://www.asc.ohio-state.edu/perry.6/p5501\_sp17/articles/quantum\_gates.pdf)
 
-![https://medium.com/@mdebdut/quantum-gates-matrix-memorization-cheat-sheet-5541f34cd8fe](<../.gitbook/assets/image (7).png>)
+![https://medium.com/@mdebdut/quantum-gates-matrix-memorization-cheat-sheet-5541f34cd8fe](<../../.gitbook/assets/image (7).png>)
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9).png>)
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8).png>)
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4).png>)
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 [https://www.pdf-archive.com/2015/10/20/cheat-sheet-3-1/cheat-sheet-3.pdf](https://www.pdf-archive.com/2015/10/20/cheat-sheet-3-1/cheat-sheet-3.pdf)
