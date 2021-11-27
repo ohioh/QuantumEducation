@@ -1,3 +1,7 @@
+---
+description: '@Glimpse ( coming soon )'
+---
+
 # Clean Template
 
 The way to define code quality is often defined in a so called "Style-Guide"

@@ -1,3 +1,7 @@
+---
+description: '@Glimpse ( coming soon )'
+---
+
 # DataScience
 
 [https://www.bigdata-insider.de/was-ist-ein-rekurrentes-neuronales-netz-rnn-a-843274/](https://www.bigdata-insider.de/was-ist-ein-rekurrentes-neuronales-netz-rnn-a-843274/)

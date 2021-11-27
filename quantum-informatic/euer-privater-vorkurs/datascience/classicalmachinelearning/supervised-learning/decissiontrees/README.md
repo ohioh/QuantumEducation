@@ -1,5 +1,5 @@
 ---
-description: boolean Logic in complex structures
+description: '@Glimpse ( coming soon ) boolean Logic in complex structures'
 ---
 
 # DecissionTrees

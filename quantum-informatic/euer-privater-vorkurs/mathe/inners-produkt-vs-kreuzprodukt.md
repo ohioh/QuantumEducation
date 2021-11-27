@@ -1,9 +1,10 @@
 ---
-description: >-
-  https://www.lernort-mint.de/mathematik/vektoren/vektorprodukt-kreuzprodukt-skalarprodukt/
+description: '@Glimpse ( coming soon )'
 ---
 
 # Inners Produkt vs Kreuzprodukt
+
+[https://www.lernort-mint.de/mathematik/vektoren/vektorprodukt-kreuzprodukt-skalarprodukt/](https://www.lernort-mint.de/mathematik/vektoren/vektorprodukt-kreuzprodukt-skalarprodukt/)
 
 ### Unterschiede zwischen dem Skalarprodukt und dem Vektorprodukt
 

@@ -1,3 +1,7 @@
+---
+description: '@Glimpse ( coming soon )'
+---
+
 # Classification
 
 An Application of Quantum Machine Learning on Quantum Correlated Systems: Quantum Convolutional Neural Network as a Classifier for Many-Body Wavefunctions from the Quantum Variational Eigensolver:

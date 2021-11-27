@@ -1,5 +1,5 @@
 ---
-description: Der Transfair der klassichen Logik ist eine weitere Herausforderung
+description: '@Glimpse  Der Transfair der klassichen Logik ist eine weitere Herausforderung'
 ---
 
 # Quantum-Logik

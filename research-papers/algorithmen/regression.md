@@ -1,8 +1,10 @@
 ---
-description: https://www.math.uni-bielefeld.de/~sek/funktion/leit03.pdf
+description: '@Glimpse ( coming soon )'
 ---
 
 # Regression
+
+[https://www.math.uni-bielefeld.de/\~sek/funktion/leit03.pdf](https://www.math.uni-bielefeld.de/\~sek/funktion/leit03.pdf)
 
 [https://iopscience.iop.org/article/10.1088/1742-6596/1738/1/012063/pdf](https://iopscience.iop.org/article/10.1088/1742-6596/1738/1/012063/pdf)
 

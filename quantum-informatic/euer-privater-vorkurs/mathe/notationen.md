@@ -1,3 +1,7 @@
+---
+description: '@Glimpse ( coming soon )'
+---
+
 # Notationen
 
 [https://www.beuth.de/de/norm/din-1303/1339827](https://www.beuth.de/de/norm/din-1303/1339827)

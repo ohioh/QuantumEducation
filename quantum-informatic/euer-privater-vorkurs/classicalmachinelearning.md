@@ -1,7 +1,7 @@
 ---
 description: >-
-  basierend auf SciKit findet ihr hier die Tools um mit Daten zu arbeiten und
-  euch zu visualisieren.
+  @Glimpse basierend auf SciKit findet ihr hier die Tools um mit Daten zu
+  arbeiten und euch zu visualisieren.
 ---
 
 # ClassicalMachineLearning
@@ -10,7 +10,7 @@ description: >-
 
 ![https://datasolut.com/machine-learning-vs-deep-learning/](../../.gitbook/assets/image.png)
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
 scikit-learn:&#x20;
 

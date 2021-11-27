@@ -1,5 +1,7 @@
 ---
-description: 'Link zur Dokumentation: https://docs.anaconda.com/anaconda/install/'
+description: >-
+  @Glimpse ( coming soon ) Link zur Dokumentation:
+  https://docs.anaconda.com/anaconda/install/
 ---
 
 # Install Anaconda

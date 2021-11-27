@@ -1,5 +1,5 @@
 ---
-description: '"Spin-Representation" https://de.universaldenker.org/lektionen/1126'
+description: '@Glimpse "Spin-Representation" https://de.universaldenker.org/lektionen/1126'
 ---
 
 # Bra-Ket

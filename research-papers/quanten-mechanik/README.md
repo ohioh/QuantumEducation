@@ -1,3 +1,7 @@
+---
+description: '@Glimpse ( coming soon )'
+---
+
 # Quanten-Mechanik
 
 Need to know: &#x20;
@@ -37,7 +41,7 @@ Der Bell-Zustand beschreibt daher einen von vier möglichen Zuständen. |0> && |
 Als neuer Begriff wurde auch der Begriff des Qubits für die Beschreibung eines 2 dimensionalen [Hilbertraums](https://de.wikipedia.org/wiki/Hilbertraum) eingeführt
 
 \
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (6) (1).png>)
 
 {% embed url="https://de.wikipedia.org/wiki/Bell-Zustand" %}
 

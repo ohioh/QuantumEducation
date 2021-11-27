@@ -1,10 +1,10 @@
 ---
-description: >-
-  Übung:
-  https://qiskit.org/textbook/ch-prerequisites/python-and-jupyter-notebooks.html
+description: '@Glimpse ( coming soon )'
 ---
 
 # First steps /w Python
+
+@Exercise : https://qiskit.org/textbook/ch-prerequisites/python-and-jupyter-notebooks.html
 
 ![](<../../../.gitbook/assets/grafik (3) (1) (1) (1) (1) (1).png>)
 

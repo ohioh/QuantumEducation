@@ -1,5 +1,5 @@
 ---
-description: 'Helpfull Link fot the beginning: http://www.quantencomputer-info.de/'
+description: '@Glimpse  Helpfull Link fot the beginning: http://www.quantencomputer-info.de/'
 ---
 
 # Quantum-Informatik

@@ -1,5 +1,5 @@
 ---
-description: https://docs.spyder-ide.org/current/quickstart.html
+description: '@Glimpse ( coming soon ) https://docs.spyder-ide.org/current/quickstart.html'
 ---
 
 # Spyder Installation und Start

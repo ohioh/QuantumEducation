@@ -1,8 +1,10 @@
 ---
-description: '@pdf http://www.psiquadrat.de/downloads/born26_stossvorgaenge.pdf'
+description: '@Glimpse ( coming soon )'
 ---
 
 # Born'sche Wahrscheinlichkeitsinterpretation
+
+@pdf http://www.psiquadrat.de/downloads/born26\_stossvorgaenge.pdf
 
 @wiki [https://de.wikipedia.org/wiki/Bornsche\_Wahrscheinlichkeitsinterpretation](https://de.wikipedia.org/wiki/Bornsche\_Wahrscheinlichkeitsinterpretation)
 

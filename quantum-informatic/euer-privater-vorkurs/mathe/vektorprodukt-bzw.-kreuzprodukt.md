@@ -1,8 +1,8 @@
 ---
 description: >-
-  Skalare sind Größen, die einen Zahlenwert, aber keine Richtung haben.
+  @Glimpse Skalare sind Größen, die einen Zahlenwert, aber keine Richtung haben.
   Beispiele: Anzahl, Länge, Dichte, Temperatur von Objekten. Vektoren sind
-  Größen, die einen Zahlenwert und eine Richtung haben. ...
+  Größen, die einen Zahlenwert und eine Richtung h
 ---
 
 # Vektorprodukt bzw. Kreuzprodukt

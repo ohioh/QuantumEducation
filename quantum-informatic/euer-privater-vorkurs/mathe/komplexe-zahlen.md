@@ -1,8 +1,10 @@
 ---
-description: '@pdf http://haegar.fh-swf.de/publikationen/KomplexS.pdf'
+description: '@Glimpse ( coming soon )'
 ---
 
 # Komplexe Zahlen
+
+@pdf http://haegar.fh-swf.de/publikationen/KomplexS.pdf
 
 sehr empfehlenswert: [https://herrfessa.com/2018/01/17/fourier-reihen-teil-1-addition-rotierender-zeiger/](https://herrfessa.com/2018/01/17/fourier-reihen-teil-1-addition-rotierender-zeiger/) und folgende
 

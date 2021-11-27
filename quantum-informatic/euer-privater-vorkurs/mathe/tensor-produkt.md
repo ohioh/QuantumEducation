@@ -1,8 +1,10 @@
 ---
-description: '@Wiki https://en.wikipedia.org/wiki/Tensor_product'
+description: '@Glimpse ( coming soon )'
 ---
 
 # Tensor Produkt
+
+@Wiki https://en.wikipedia.org/wiki/Tensor\_product
 
 @wiki [https://de.wikipedia.org/wiki/Formelsammlung\_Tensoralgebra](https://de.wikipedia.org/wiki/Formelsammlung\_Tensoralgebra)
 

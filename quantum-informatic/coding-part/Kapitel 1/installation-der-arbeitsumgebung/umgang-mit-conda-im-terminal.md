@@ -1,6 +1,6 @@
 ---
 description: >-
-  link:
+  @Glimpse ( coming soon ) @link:
   https://conda.io/projects/conda/en/latest/user-guide/concepts/conda-commands.html
 ---
 

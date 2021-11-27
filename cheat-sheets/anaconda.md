@@ -1,7 +1,7 @@
 ---
 description: >-
-  Eine geniale Software zum Verwalten eurer Arbeitswerkzeuge ( IDE, von englisch
-  integrated development environment)
+  @Glimpse Eine geniale Software zum Verwalten eurer Arbeitswerkzeuge ( IDE, von
+  englisch integrated development environment)
 ---
 
 # Anaconda

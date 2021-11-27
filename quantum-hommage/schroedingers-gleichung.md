@@ -1,8 +1,10 @@
 ---
-description: https://www.chemie.de/lexikon/Schr%C3%B6dingergleichung.html
+description: '@Glimpse'
 ---
 
 # Schrödingers Gleichung
+
+[https://www.chemie.de/lexikon/Schr%C3%B6dingergleichung.html](https://www.chemie.de/lexikon/Schr%C3%B6dingergleichung.html)
 
 [https://physikunterricht-online.de/jahrgang-12/schroedingergleichung/](https://physikunterricht-online.de/jahrgang-12/schroedingergleichung/)
 

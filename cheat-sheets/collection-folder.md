@@ -1,5 +1,5 @@
 ---
-description: Eine Sammlung von PDFs
+description: '@Glimpse Eine Sammlung von PDFs'
 ---
 
 # Collection-Folder
