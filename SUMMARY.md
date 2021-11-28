@@ -215,5 +215,6 @@
   * [Bell's Theorie: Das Quanten-Venn-Diagramm-Paradoxon](quantum-hommage/bells-theorie-das-quanten-venn-diagramm-paradoxon.md)
   * [Dirac–von Neumann axioms](quantum-hommage/dirac-von-neumann-axioms.md)
   * [Schrödingers Gleichung](quantum-hommage/schroedingers-gleichung.md)
+  * [Von Neumann](quantum-hommage/von-neumann.md)
   * [von Neumann Landauer Limit](quantum-hommage/von-neumann-landauer-limit.md)
   * [Deutsch-Joza](quantum-hommage/deutsch-joza.md)
