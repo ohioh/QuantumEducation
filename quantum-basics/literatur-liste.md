@@ -30,7 +30,7 @@ Selbstverständlich dürfen die genialen Bücher von Feynman nicht fehlen. Lectu
 
 Um in die Gedankenwelt und Perspektive einzutauen ist das Buch "Warum ist E=mc²" ( im Kosmos Verlag erschienen ) sehr gut. Gerade um die Entwicklung der Physik zu verstehen und auch die Differnezierung von Fermionen und Bosonen  zu verstehen:
 
-![](<../.gitbook/assets/grafik (16).png>)
+![](<../.gitbook/assets/grafik (16) (1).png>)
 
 {% embed url="https://www.kosmos.de/buecher/ratgeber-naturfuehrer/astronomie/einsteiger/6477/warum-ist-e-mc2" %}
 

@@ -8,7 +8,7 @@ description: 'Editor: https://algassert.com/quirk'
 
 alternative : [https://quantum-computing.ibm.com/composer/docs/iqx/build-circuits](https://quantum-computing.ibm.com/composer/docs/iqx/build-circuits)
 
-![](<.gitbook/assets/grafik (8).png>)
+![](<.gitbook/assets/grafik (8) (1).png>)
 
 [https://quantum-circuit.com/](https://quantum-circuit.com)
 

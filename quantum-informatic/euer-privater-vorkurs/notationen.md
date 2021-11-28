@@ -2,4 +2,4 @@
 
 Griechische Buchstaben:
 
-![](<../../.gitbook/assets/grafik (13).png>)
+![](<../../.gitbook/assets/grafik (13) (1).png>)
