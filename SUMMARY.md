@@ -148,6 +148,7 @@
 * [Komplexitätstheorie](research-papers/komplexitaetstheorie/README.md)
   * [Quantum Komplexität](research-papers/komplexitaetstheorie/quantum-komplexitaet.md)
 * [Physik](research-papers/physik/README.md)
+  * [Ising Model](research-papers/physik/ising-model.md)
   * [Feynman Lectures](research-papers/physik/feynman-lectures.md)
 * [offtopic](research-papers/offtopic.md)
 * [Spin 1/2 (Fermion)](research-papers/spin-1-2-fermion.md)
