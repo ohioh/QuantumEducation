@@ -44,4 +44,4 @@ Nun seid ihr gefragt: Welchen State sehen wir hier ß
 
 und hier ?
 
-![](<../../../.gitbook/assets/grafik (4) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/grafik (4) (1) (1) (1) (1) (1).png>)
