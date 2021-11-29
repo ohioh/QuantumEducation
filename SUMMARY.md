@@ -214,6 +214,8 @@
 ***
 
 * [Quantum-Hommage](quantum-hommage.md)
+  * [Wolfgang Pauli](quantum-hommage/wolfgang-pauli.md)
+  * [Max Planck](quantum-hommage/max-planck.md)
   * [Andrew Helwer](quantum-hommage/andrew-helwer.md)
   * [William Rowan Hamilton](page-1.md)
   * [Bell's Theorie: Das Quanten-Venn-Diagramm-Paradoxon](quantum-hommage/bells-theorie-das-quanten-venn-diagramm-paradoxon.md)
