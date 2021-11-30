@@ -5,7 +5,7 @@
 * [Course Kick-Off](course-kickk-off.md)
 * [FAQ](faq.md)
 
-## Quantum-Informatics <a href="quantum-informatic" id="quantum-informatic"></a>
+## Quantum-Informatics <a href="#quantum-informatic" id="quantum-informatic"></a>
 
 * [Coding-Part](quantum-informatic/coding-part/README.md)
   * [Kapitel 1](<quantum-informatic/coding-part/Kapitel 1/README.md>)
@@ -175,6 +175,7 @@
   * [Hardware Vergleich](research-papers/quantum-hardware/hardware-vergleich.md)
   * [Quantum Trapping](research-papers/quantum-hardware/quantum-trapping.md)
 * [Algorithmen](research-papers/algorithmen/README.md)
+  * [Supervised Learning](research-papers/algorithmen/supervised-learning.md)
   * [Shor-Algorithm](research-papers/algorithmen/shor-algorithm.md)
   * [Grover's algorithm](research-papers/algorithmen/grovers-algorithm.md)
   * [Deutsch-Josza](research-papers/algorithmen/deutsch-josza.md)
