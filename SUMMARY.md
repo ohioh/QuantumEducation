@@ -73,6 +73,7 @@
     * [Rechnen im Kreis](quantum-informatic/euer-privater-vorkurs/mathe/rechnen-im-kreis.md)
     * [Differentia(operator](quantum-informatic/euer-privater-vorkurs/mathe/differentia-operator.md)
   * [DataScience](quantum-informatic/euer-privater-vorkurs/datascience.md)
+    * [Maschinen-Theorie](quantum-informatic/euer-privater-vorkurs/datascience/maschinen-theorie.md)
     * [Algorithmen & Datenstrukturen](quantum-informatic/euer-privater-vorkurs/datascience/algorithmen-and-datenstrukturen.md)
     * [ClassicalMachineLearning](quantum-informatic/euer-privater-vorkurs/classicalmachinelearning.md)
       * [Supervised Learning](quantum-informatic/euer-privater-vorkurs/datascience/classicalmachinelearning/supervised-learning/README.md)
