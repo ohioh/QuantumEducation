@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome to Quantum-Computing](README.md)
-* [Das Projekt:](idw2021-introduction-quantum-computing/README.md)
+* [Das Projekt:](idw2021-introduction-quantum-computing.md)
   * [Termine](idw2021-introduction-quantum-computing/termine.md)
   * [Trello-Planung](idw2021-introduction-quantum-computing/trello-planung.md)
 * [Course Kick-Off](course-kickk-off.md)
