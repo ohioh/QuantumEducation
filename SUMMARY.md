@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Welcome to Quantum-Computing](README.md)
-* [WiSe2021  Introduction: Quantum-Computing](idw2021-introduction-quantum-computing.md)
+* [Das Projekt:](idw2021-introduction-quantum-computing/README.md)
+  * [Termine](idw2021-introduction-quantum-computing/termine.md)
+  * [Trello-Planung](idw2021-introduction-quantum-computing/trello-planung.md)
 * [Course Kick-Off](course-kickk-off.md)
 * [FAQ](faq.md)
 

@@ -28,7 +28,7 @@ What is Variational Quantum Linear Solver ? [https://pennylane.ai/qml/demos/tuto
 
 Whats is ar variational ( parametrized ) classifier ? [https://pennylane.ai/qml/demos/tutorial\_variational\_classifier.html](https://pennylane.ai/qml/demos/tutorial\_variational\_classifier.html)
 
-What are _Variational (parametrized) quantum circuits ? _[_https://pennylane.ai/qml/glossary/variational\_circuit.html_](https://pennylane.ai/qml/glossary/variational\_circuit.html)__
+What are _Variational (parametrized) quantum circuits ?_ [_https://pennylane.ai/qml/glossary/variational\_circuit.html_](https://pennylane.ai/qml/glossary/variational\_circuit.html)__
 
 ## DataSets ( Linear Regression ):
 

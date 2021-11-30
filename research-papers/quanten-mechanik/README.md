@@ -8,7 +8,7 @@ Need to know: &#x20;
 
 \[#Q-Beginn]
 
-**Bellsche Ungleichung:    **                                                                                                               Zusammenfassung:
+**Bellsche Ungleichung:**                                                                                                               Zusammenfassung:
 
 Basierend auf der Arbeit von John Bell im Jahre 1964 ist dies die Thematisierung der kritischen Fragestellung von Einstein ( siehe [EPR ](https://de.wikipedia.org/wiki/Einstein-Podolsky-Rosen-Paradoxon)) zur Paradoxie und behaupteten Unvollständigkeit der Quantenmechanik.
 
@@ -49,9 +49,9 @@ Als neuer Begriff wurde auch der Begriff des Qubits für die Beschreibung eines 
 
 {% embed url="https://de.wikipedia.org/wiki/Bloch-Kugel" %}
 
-****[**Einstein-Podolsky-Rosen-Paradox:**](https://de.wikipedia.org/wiki/Einstein-Podolsky-Rosen-Paradoxon)** \[#Q-Hard]**
+****[**Einstein-Podolsky-Rosen-Paradox:**](https://de.wikipedia.org/wiki/Einstein-Podolsky-Rosen-Paradoxon) **\[#Q-Hard]**
 
-**Zusammenfassung:  **
+**Zusammenfassung:** &#x20;
 
 Diese Theorie wurde durch Experimente widerlegt. Dennoch ist die Betrachtung durchaus sinnvoll um die Perspektive der Zeit und die damit einhergehende Entwicklung aus der Diskussion der damaligen Zeit zu verinnerlichen.
 
@@ -61,7 +61,7 @@ Einstein nannte dieses Phänomen „spukhafte Fernwirkung“
 
 Herausforderung war die theoretische Betrachtung der Quanten-Mechanik als vollständige Theorie mit folgender Bedingung:
 
-„In einer vollständigen Theorie muss _jedes Element der physikalischen Realität _eine Entsprechung haben.
+„In einer vollständigen Theorie muss _jedes Element der physikalischen Realität_ eine Entsprechung haben.
 
 Eine physikalische Größe, deren Wert mit Sicherheit vorhersagbar ist, ohne das System, an dem sie gemessen wird, zu stören, ist ein _Element der physikalischen Realität_.“[https://de.wikipedia.org/wiki/Einstein-Podolsky-Rosen-Paradoxon](https://de.wikipedia.org/wiki/Einstein-Podolsky-Rosen-Paradoxon)
 
