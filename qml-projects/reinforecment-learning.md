@@ -2,7 +2,9 @@
 description: '@Glimpse ( coming soon )'
 ---
 
-# Reinforcment Learning
+# Reinforecment Learning
+
+@git [https://github.com/ohioh/IntroductionQuantumComputing/blob/main/GettingStarted/ReinforcementLearning.ipynb](https://github.com/ohioh/IntroductionQuantumComputing/blob/main/GettingStarted/ReinforcementLearning.ipynb)
 
 recommended Book&#x20;
 
