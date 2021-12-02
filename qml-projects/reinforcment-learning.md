@@ -4,7 +4,7 @@ description: '@Glimpse ( coming soon )'
 
 # Reinforcment Learning
 
-recommendet Book&#x20;
+recommended Book&#x20;
 
 "Handbook of Reinforcement Learning and Control" -Springer ( Yan Wan, F. Lewis )
 
