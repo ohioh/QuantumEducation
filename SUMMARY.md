@@ -221,10 +221,15 @@
   * [Wolfgang Pauli](quantum-hommage/wolfgang-pauli.md)
   * [Max Planck](quantum-hommage/max-planck.md)
   * [Andrew Helwer](quantum-hommage/andrew-helwer.md)
-  * [William Rowan Hamilton](page-1.md)
+  * [William Rowan Hamilton](<page-1 (1).md>)
   * [Bell's Theorie: Das Quanten-Venn-Diagramm-Paradoxon](quantum-hommage/bells-theorie-das-quanten-venn-diagramm-paradoxon.md)
   * [Dirac–von Neumann axioms](quantum-hommage/dirac-von-neumann-axioms.md)
   * [Schrödingers Gleichung](quantum-hommage/schroedingers-gleichung.md)
   * [Von Neumann](quantum-hommage/von-neumann.md)
   * [von Neumann Landauer Limit](quantum-hommage/von-neumann-landauer-limit.md)
   * [Deutsch-Joza](quantum-hommage/deutsch-joza.md)
+* [Page 1](page-1.md)
+
+## Group 1
+
+* [Quantum @ LinuxFoundation](group-1/quantum-linuxfoundation.md)
