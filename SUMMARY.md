@@ -130,6 +130,7 @@
 * [Code Example:](qml-projects/code-example.md)
 * [Classification](qml-projects/classification.md)
 * [Regression](qml-projects/lineare-regression.md)
+* [Reinforcment Learning](qml-projects/reinforcment-learning.md)
 * [Project Theme](qml-projects/project-theme/README.md)
   * [The Quantum Graph Recurrent Neural Network](qml-projects/project-theme/the-quantum-graph-recurrent-neural-network.md)
   * [Quantum circuit structure learning](qml-projects/project-theme/quantum-circuit-structure-learning.md)
@@ -212,6 +213,7 @@
 * [Anaconda](documentation/anaconda.md)
 * [Pennylane](documentation/pennylane.md)
 * [Qiskit](documentation/qiskit.md)
+* [Jupyter Notebook](documentation/jupyter-notebook.md)
 * [Quantum-Gates](documentation/quantum-gates/README.md)
   * [density matrix](documentation/quantum-gates/density-matrix.md)
 
