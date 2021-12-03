@@ -10,11 +10,11 @@ I. Der Zustand eines Systems wird durch den Zustandsvektor |ψi beschrieben.&#x2
 
 II. Die Zeitentwicklung der Zustände wird durch die Schrödinger-Gleichung &#x20;
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 III. \[ Jordansche Regel ]Den Observablen (Meßgr¨oßen) der klassischen Physik entsprechen in der Quantenmechanik hermitesche Operatoren, wobei Funktionen von Observablen Funktionen von Operatoren entsprechen:&#x20;
 
-![](<../.gitbook/assets/image (2) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 IV. \[ Jordansche Regel ] Der Mittelwert/ Erwartungswert einer Observablen mit zugeörigem Operator A ist im Zustand gegeben:&#x20;
 

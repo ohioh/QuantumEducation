@@ -20,9 +20,9 @@ Unterschiede gibt es auch bei den Rechenvorschriften, beim Skalarprodukt gilt da
 
 ![](<../../../.gitbook/assets/grafik (3) (1) (1).png>)
 
-![](<../../../.gitbook/assets/grafik (4) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/grafik (4) (1) (1) (1).png>)
 
-![zwei Vektoren  werden einem Skalar zugehordnet](<../../../.gitbook/assets/grafik (11) (1) (1) (1).png>)
+![zwei Vektoren  werden einem Skalar zugehordnet](<../../../.gitbook/assets/grafik (11) (1) (1).png>)
 
 
 

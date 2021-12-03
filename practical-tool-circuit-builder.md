@@ -10,6 +10,8 @@ alternative : [https://quantum-computing.ibm.com/composer/docs/iqx/build-circuit
 
 ![](<.gitbook/assets/grafik (8) (1).png>)
 
+[https://github.com/Qiskit/openqasm](https://github.com/Qiskit/openqasm)
+
 [https://quantum-circuit.com/](https://quantum-circuit.com)
 
 Overview of features:

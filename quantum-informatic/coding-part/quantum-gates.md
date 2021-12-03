@@ -38,5 +38,5 @@ CNOT: [https://pennylane.readthedocs.io/en/stable/code/api/pennylane.CNOT.html](
 
 CZ: [https://pennylane.readthedocs.io/en/stable/code/api/pennylane.CZ.html](https://pennylane.readthedocs.io/en/stable/code/api/pennylane.CZ.html)
 
-![](<../../.gitbook/assets/grafik (4) (1) (1) (1) (1) (1).png>)
+![](<../../.gitbook/assets/grafik (4) (1) (1) (1) (1).png>)
 

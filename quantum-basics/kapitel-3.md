@@ -16,5 +16,5 @@ Algorithmen und  Datenstrukturen im Kontext Alan Turing:
 
 
 
-![](<../.gitbook/assets/grafik (9) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/grafik (9) (1) (1) (1) (1).png>)
 

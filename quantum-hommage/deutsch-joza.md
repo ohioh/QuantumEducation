@@ -1,6 +1,0 @@
----
-description: '@Glimpse'
----
-
-# Deutsch-Joza
-

@@ -16,7 +16,7 @@ stack{ left langle %PHI mline right none left none %psi right rangle = a\_{1}_c\
 
 }
 
-![](<../../../../.gitbook/assets/grafik (9) (1) (1) (1).png>)
+![](<../../../../.gitbook/assets/grafik (9) (1) (1).png>)
 
 stack{ left none mline %psi right rangle&#x20;
 
@@ -64,7 +64,7 @@ left none mline %psi  right rangle  =
 }
 ```
 
-![](<../../../../.gitbook/assets/grafik (9) (1) (1).png>)
+![](<../../../../.gitbook/assets/grafik (9) (2).png>)
 
 ```
  abs{%alpha}^2 + abs{%beta}^2 = 1

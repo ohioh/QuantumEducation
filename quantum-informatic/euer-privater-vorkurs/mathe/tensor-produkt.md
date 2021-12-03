@@ -4,7 +4,7 @@ description: '@Glimpse ( coming soon )'
 
 # Tensor Produkt
 
-@Wiki https://en.wikipedia.org/wiki/Tensor\_product
+@Wiki [https://en.wikipedia.org/wiki/Tegatesnsor\_product](https://en.wikipedia.org/wiki/Tensor\_product)
 
 @wiki [https://de.wikipedia.org/wiki/Formelsammlung\_Tensoralgebra](https://de.wikipedia.org/wiki/Formelsammlung\_Tensoralgebra)
 

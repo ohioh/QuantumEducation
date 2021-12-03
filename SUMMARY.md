@@ -34,10 +34,11 @@
 * ["Euer privater Vorkurs"](quantum-informatic/euer-privater-vorkurs/README.md)
   * [Clean Code](quantum-informatic/euer-privater-vorkurs/clean-code.md)
   * [Statistik](quantum-informatic/euer-privater-vorkurs/statistik.md)
-  * [Komplexitätstheorie](quantum-informatic/euer-privater-vorkurs/komplexitaetstheorie/README.md)
+  * [Komplexitätstheorie](quantum-informatic/euer-privater-vorkurs/komplexitaetstheorie.md)
     * [Quantum Complexity](quantum-informatic/euer-privater-vorkurs/komplexitaetstheorie/quantum-complexity.md)
   * [Logik](quantum-informatic/euer-privater-vorkurs/logik.md)
   * [Physik](quantum-informatic/euer-privater-vorkurs/physik/README.md)
+    * [Visuelle Physik](quantum-informatic/euer-privater-vorkurs/physik/visuelle-physik.md)
     * [Einstieg Quanten-Mechanik](quantum-informatic/euer-privater-vorkurs/physik/einstieg-quanten-mechanik.md)
     * [Math behind](quantum-informatic/euer-privater-vorkurs/physik/math-behind.md)
   * [Stochastik](quantum-informatic/euer-privater-vorkurs/stochastik/README.md)
@@ -163,6 +164,7 @@
   * [UCSM Unit cycle state machine](research-papers/quantum-informatik/ucsm-unit-cycle-state-machine.md)
 * [Visualisation](research-papers/visualisation.md)
 * [Quanten-Mechanik](research-papers/quanten-mechanik/README.md)
+  * [Entanglement](research-papers/quanten-mechanik/entanglement.md)
   * [Mathematische Grundlagen:](research-papers/quanten-mechanik/mathematische-grundlagen.md)
   * [Quanten-Theorie](research-papers/quanten-mechanik/quanten-theorie.md)
   * [Born'sche Wahrscheinlichkeitsinterpretation](research-papers/quanten-mechanik/bornsche-wahrscheinlichkeitsinterpretation.md)
@@ -215,6 +217,8 @@
 * [Qiskit](documentation/qiskit.md)
 * [Jupyter Notebook](documentation/jupyter-notebook.md)
 * [Quantum-Gates](documentation/quantum-gates/README.md)
+  * [Pauli Z Gate](documentation/quantum-gates/pauli-z-gate.md)
+  * [CNOT Gate](documentation/quantum-gates/cnot-gate.md)
   * [density matrix](documentation/quantum-gates/density-matrix.md)
 
 ***
@@ -229,7 +233,8 @@
   * [Schrödingers Gleichung](quantum-hommage/schroedingers-gleichung.md)
   * [Von Neumann](quantum-hommage/von-neumann.md)
   * [von Neumann Landauer Limit](quantum-hommage/von-neumann-landauer-limit.md)
-  * [Deutsch-Joza](quantum-hommage/deutsch-joza.md)
+  * [Deutsch-Joza](quantum-hommage/deutsch-joza/README.md)
+    * [Simon's problem](quantum-hommage/deutsch-joza/simons-problem.md)
 * [Page 1](page-1.md)
 
 ## Group 1

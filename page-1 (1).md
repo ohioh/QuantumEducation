@@ -18,5 +18,5 @@ Durch die Verbindung der Schrödinger-Gleichung und dem Hamiltonian erhalt man e
 
 Frei nach Wikipedia: Die Hamilton-Gleichungen der klassischen Hamiltonschen Mechanik haben eine direkte Entsprechung in der Quantenmechanik. Angenommen, wir haben eine Menge von Basiszuständen, die nicht unbedingt Eigenzustände der Energie sein müssen.
 
-![@wikipedia](<.gitbook/assets/image (1) (1) (1).png>)
+![@wikipedia](<.gitbook/assets/image (1) (1) (1) (1).png>)
 

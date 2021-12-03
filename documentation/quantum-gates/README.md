@@ -4,6 +4,8 @@ description: '@Glimpse ( coming soon )'
 
 # Quantum-Gates
 
+[https://www.quantum-inspire.com/kbase/cnot/](https://www.quantum-inspire.com/kbase/cnot/)
+
 [https://qudev.phys.ethz.ch/static/content/courses/QSIT07/presentations/Schmassmann.pdf](https://qudev.phys.ethz.ch/static/content/courses/QSIT07/presentations/Schmassmann.pdf)
 
 [https://arxiv.org/pdf/1110.2998.pdf](https://arxiv.org/pdf/1110.2998.pdf)
@@ -22,6 +24,6 @@ description: '@Glimpse ( coming soon )'
 
 ![](<../../.gitbook/assets/image (4).png>)
 
-![](<../../.gitbook/assets/image (2) (1).png>)
+![](<../../.gitbook/assets/image (2) (1) (1).png>)
 
 [https://www.pdf-archive.com/2015/10/20/cheat-sheet-3-1/cheat-sheet-3.pdf](https://www.pdf-archive.com/2015/10/20/cheat-sheet-3-1/cheat-sheet-3.pdf)
