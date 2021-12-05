@@ -138,6 +138,8 @@
   * [Optimizer](quantum-machine-learning/optimizer.md)
   * [Regression](quantum-machine-learning/lineare-regression.md)
 * [Research Papers & More](research-papers-and-more/README.md)
+  * [Variational quantum Algorithms](research-papers-and-more/variational-quantum-algorithms.md)
+  * [Quantum Natural Gradient Descent](research-papers-and-more/quantum-natural-gradient-descent.md)
   * [Boolsche Logik](research-papers-and-more/boolsche-logik.md)
   * [Quantum-Logik](research-papers-and-more/quantum-logik.md)
   * [Bra-Ket](research-papers-and-more/bra-ket.md)
