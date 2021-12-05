@@ -2,6 +2,7 @@
 description: >-
   Eine selbstverständlich unvollständige Liste der Personen, die Quantum stark
   beeinflusst haben
+coverY: 0
 ---
 
 # Quantum-Hommage

@@ -1,8 +1,9 @@
 ---
 description: '@Glimpse ( coming soon )'
+coverY: 0
 ---
 
-# The Project
+# Course
 
 
 

@@ -1,5 +1,6 @@
 ---
 description: 'Editor: https://algassert.com/quirk'
+coverY: 0
 ---
 
 # Practical Tool - Circuit Builder
