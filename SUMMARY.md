@@ -125,26 +125,26 @@
 
 * [Practical Tool - Circuit Builder](practical-tool-circuit-builder.md)
 
-## QML-Projects
+## QuantumMachineLearning
 
-* [Optimizer](qml-projects/optimizer.md)
-* [Code Example:](qml-projects/code-example.md)
-* [Classification](qml-projects/classification.md)
-* [Regression](qml-projects/lineare-regression.md)
-* [Reinforecment Learning](qml-projects/reinforecment-learning.md)
-* [Project Theme](qml-projects/project-theme/README.md)
-  * [The Quantum Graph Recurrent Neural Network](qml-projects/project-theme/the-quantum-graph-recurrent-neural-network.md)
-  * [Quantum circuit structure learning](qml-projects/project-theme/quantum-circuit-structure-learning.md)
-  * [Training and evaluating quantum kernels](qml-projects/project-theme/training-and-evaluating-quantum-kernels.md)
-  * [Kernel-based training of quantum models with scikit-learne 2](qml-projects/project-theme/kernel-based-training-of-quantum-models-with-scikit-learne-2.md)
-  * [Qubit\_Rotation](qml-projects/project-theme/qubit\_rotation.md)
-  * [Variational Quantum Linear Solver](qml-projects/project-theme/variational-quantum-linear-solver.md)
-  * [Variational classifier](qml-projects/project-theme/variational-classifier.md)
-  * [Understanding the Haar Measure](qml-projects/project-theme/understanding-the-haar-measure/README.md)
-    * [Unitary Designs](qml-projects/project-theme/understanding-the-haar-measure/unitary-designs.md)
-  * [Lineare Regression @QML](qml-projects/project-theme/lineare-regression-qml.md)
-  * [Quantum-Simulation @Kubernetes with QuEST](qml-projects/project-theme/quantum-simulation-kubernetes-with-quest.md)
-  * [Documentation](qml-projects/project-theme/documentation.md)
+* [Optimizer](quantummachinelearning/optimizer.md)
+* [Code Example:](quantummachinelearning/code-example.md)
+* [Classification](quantummachinelearning/classification.md)
+* [Regression](quantummachinelearning/lineare-regression.md)
+* [Reinforecment Learning](quantummachinelearning/reinforecment-learning.md)
+* [Project Theme](quantummachinelearning/project-theme/README.md)
+  * [The Quantum Graph Recurrent Neural Network](quantummachinelearning/project-theme/the-quantum-graph-recurrent-neural-network.md)
+  * [Quantum circuit structure learning](quantummachinelearning/project-theme/quantum-circuit-structure-learning.md)
+  * [Training and evaluating quantum kernels](quantummachinelearning/project-theme/training-and-evaluating-quantum-kernels.md)
+  * [Kernel-based training of quantum models with scikit-learne 2](quantummachinelearning/project-theme/kernel-based-training-of-quantum-models-with-scikit-learne-2.md)
+  * [Qubit\_Rotation](quantummachinelearning/project-theme/qubit\_rotation.md)
+  * [Variational Quantum Linear Solver](quantummachinelearning/project-theme/variational-quantum-linear-solver.md)
+  * [Variational classifier](quantummachinelearning/project-theme/variational-classifier.md)
+  * [Understanding the Haar Measure](quantummachinelearning/project-theme/understanding-the-haar-measure/README.md)
+    * [Unitary Designs](quantummachinelearning/project-theme/understanding-the-haar-measure/unitary-designs.md)
+  * [Lineare Regression @QML](quantummachinelearning/project-theme/lineare-regression-qml.md)
+  * [Quantum-Simulation @Kubernetes with QuEST](quantummachinelearning/project-theme/quantum-simulation-kubernetes-with-quest.md)
+  * [Documentation](quantummachinelearning/project-theme/documentation.md)
 
 ## Research-Papers
 
