@@ -1,9 +1,7 @@
 ---
-description: '@Glimpse ( coming soon )'
+description: '@glimpse ( coming soon )'
 ---
 
 # Pennylane
 
-
-
-[https://pennylane.readthedocs.io/en/stable/](https://pennylane.readthedocs.io/en/stable/)
+[https://codebook.xanadu.ai/](https://codebook.xanadu.ai)

@@ -205,6 +205,7 @@
     * [MatPlotLib](documentation/python/matplotlib.md)
   * [Anaconda](documentation/anaconda.md)
   * [Pennylane](documentation/pennylane.md)
+  * [Pennylane](documentation/pennylane-1.md)
   * [Quantum-Gates](documentation/quantum-gates/README.md)
     * [Pauli Z Gate](documentation/quantum-gates/pauli-z-gate.md)
     * [CNOT Gate](documentation/quantum-gates/cnot-gate.md)
