@@ -2,6 +2,7 @@
 
 * [Welcome to Quantum-Computing](README.md)
 * [The Project](idw2021-introduction-quantum-computing.md)
+  * [Team](idw2021-introduction-quantum-computing/team.md)
   * [Termine](idw2021-introduction-quantum-computing/termine.md)
   * [Trello-Planung](idw2021-introduction-quantum-computing/trello-planung.md)
 * [FAQ](faq.md)
