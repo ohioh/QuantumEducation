@@ -22,12 +22,9 @@ Rechnen mit Python ( auch in IPython )
 23 % 7
 
 ( 5-1 ) * (( 7+1 )/( 6-3 )) 
-
 ```
 
 Strings mit Python :thumbsup:
-
-
 
 ```
 name = 'quantum'
@@ -38,7 +35,6 @@ name + name2
 name * name2
 
 name * 3
-
 
 ```
 

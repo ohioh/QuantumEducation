@@ -28,7 +28,7 @@ Ein bekanntes Beispiel für einen [quadratischen Hamiltonian](https://www.spektr
 
 ![](<../../.gitbook/assets/grafik (14) (1).png>)
 
-mit  ![](<../../.gitbook/assets/grafik (11) (1).png>)
+mit ![](<../../.gitbook/assets/grafik (11) (1).png>)
 
 In diesem Hamiltonian kann die Menge E, die bestimmt, welche Paare von Qubits ZZ-Wechselwirkungen haben, durch die Menge der Kanten eines Graphen dargestellt werden. Mit den Qubits als Knoten wird dieser Graph als Interaktionsgraph bezeichnet. Die θ(1)-Parameter entsprechen den Kantengewichten und die θ(2)
 
@@ -53,11 +53,8 @@ eine kleine Zahl ist.
 Diese Schaltung ist ein spezieller Fall des rekurrenten neuronalen Quantengraphen-Netzwerks, das im Allgemeinen als Variationsansatz der folgenden Form definiert ist:
 
 $$
-U_{H}(\boldsymbol\mu, \ \boldsymbol\gamma) \ = \ \displaystyle\prod_{i \ = \ 1}^{P} \Bigg[
-\displaystyle\prod_{j \ = \ 1}^{Q} e^{-i \gamma_j H^{j}(\boldsymbol\mu)} \Bigg],
+U_{H}(\boldsymbol\mu, \ \boldsymbol\gamma) \ = \ \displaystyle\prod_{i \ = \ 1}^{P} \Bigg[ \displaystyle\prod_{j \ = \ 1}^{Q} e^{-i \gamma_j H^{j}(\boldsymbol\mu)} \Bigg],
 $$
-
-
 
 für einen parametrisierten quadratischen Hamiltonian, H(μ)
 
@@ -71,8 +68,6 @@ $$
 \hat{H}_{\text{Ising}}(\boldsymbol\alpha)
 $$
 
-
-
 for an unknown set of target parameters, $$α$$ and an unknown interaction graph $$G$$. Let’s also suppose we have access to copies of some low-energy, non-ground state of the target Hamiltonian,$$|ψ0⟩$$Darüber hinaus haben wir Zugang zu einer Sammlung zeitlich entwickelter Zustände, $$\{ |\psi(t_1)\rangle, \ |\psi(t_2)\rangle, \ ..., \ |\psi(t_N)\rangle \}$$ definiert als:
 
 $$
@@ -82,13 +77,12 @@ $$
 Wir nennen die Zustände mit niedriger Energie und die Sammlung der zeitlich entwickelten Zustände Quantendaten. Von hier aus wählen wir nach dem Zufallsprinzip eine Anzahl zeitlich entwickelter Zustände aus unserer Sammlung aus. Für jeden Zustand, den wir auswählen und der sich zu einem bestimmten Zeitpunkt tk entwickelt hat, vergleichen wir ihn mit
 
 $$
-U_{\hat{H}_{\text{Ising}}}(\boldsymbol\mu, \ \Delta) |\psi_0\rangle \ \approx \ e^{-i t_k
-\hat{H}_{\text{Ising}}(\boldsymbol\mu)} |\psi_0\rangle.
+U_{\hat{H}_{\text{Ising}}}(\boldsymbol\mu, \ \Delta) |\psi_0\rangle \ \approx \ e^{-i t_k \hat{H}_{\text{Ising}}(\boldsymbol\mu)} |\psi_0\rangle.
 $$
 
 Dazu wird eine der Kopien von |ψ0⟩ in einen Quantenschaltkreis mit dem QGRNN-Ansatz eingespeist, mit einem geschätzten Satz von Parametern μ und einem geschätzten Interaktionsgraphen G′.
 
-&#x20;Wir verwenden dann einen klassischen Optimierer, um die durchschnittliche "Ähnlichkeit" zwischen den zeitlich entwickelten Zuständen und den mit dem QGRNN vorbereiteten Zuständen zu maximieren.
+Wir verwenden dann einen klassischen Optimierer, um die durchschnittliche "Ähnlichkeit" zwischen den zeitlich entwickelten Zuständen und den mit dem QGRNN vorbereiteten Zuständen zu maximieren.
 
 Da die QGRNN-Zustände jedem zeitlich entwickelten Zustand für jede abgetastete Zeit immer ähnlicher werden, folgt daraus, dass μ → α und wir sind in der Lage, die unbekannten Parameter des Hamiltonian zu lernen.
 
@@ -113,12 +107,9 @@ import copy
 
 Wir legen auch einige feste Werte fest, die während der gesamten Simulation verwendet werden.
 
-
-
 ```
 qubit_number = 4
 qubits = range(qubit_number)
-
 ```
 
 In dieser Simulation stehen uns keine Quantendaten zur Verfügung, die wir in das QGRNN einspeisen könnten, also müssen wir sie selbst erzeugen. Dazu müssen wir den Zielwechselwirkungsgraphen und den Ziel-Hamiltonian kennen.
@@ -130,20 +121,15 @@ ising_graph = nx.cycle_graph(qubit_number)
 
 print(f"Edges: {ising_graph.edges}")
 nx.draw(ising_graph)
-
 ```
 
 Dann können wir die "unbekannten" Zielparameter initialisieren, die den Ziel-Hamiltonian beschreiben,$$\boldsymbol\alpha \ = \ \{\alpha^{(1)}, \ \alpha^{(2)}\}$$.Aus der Einleitung wissen wir, dass wir unsere parametrisierte Ising-Hamiltonsche so definiert haben, dass sie die Form hat:
 
 $$
-\hat{H}_{\text{Ising}}(\boldsymbol\theta) \ = \ \displaystyle\sum_{(i, j) \in E}
-\theta_{ij}^{(1)} Z_{i} Z_{j} \ + \ \displaystyle\sum_{i} \theta_{i}^{(2)} Z_{i} \ + \
-\displaystyle\sum_{i} X_{i},
+\hat{H}_{\text{Ising}}(\boldsymbol\theta) \ = \ \displaystyle\sum_{(i, j) \in E} \theta_{ij}^{(1)} Z_{i} Z_{j} \ + \ \displaystyle\sum_{i} \theta_{i}^{(2)} Z_{i} \ + \ \displaystyle\sum_{i} X_{i},
 $$
 
 wobei E die Menge der Kanten im Interaktionsgraphen ist und Xi und Zi die Pauli-X und Pauli-Z auf dem i-ten Qubit.
-
-
 
 In diesem Tutorium wählen wir die Zielparameter durch Stichproben aus einer gleichmäßigen Wahrscheinlichkeitsverteilung im Bereich von -2 bis 2, mit einer Genauigkeit von zwei Dezimalstellen.
 
@@ -192,7 +178,6 @@ def create_hamiltonian_matrix(n_qubits, graph, weights, bias):
 ham_matrix = create_hamiltonian_matrix(qubit_number, ising_graph, target_weights, target_bias)
 plt.matshow(ham_matrix, cmap="hot")
 plt.show()
-
 ```
 
 ![](<../../.gitbook/assets/grafik (10).png>)
@@ -220,7 +205,6 @@ low_energy_state = [
     (0.018391279795405405 - 0.005625722994009138j),
     (-0.041350974715649635 + 0.012650711602265649j),
 ]
-
 ```
 
 Dieser Zustand kann durch eine entkoppelte Version des [Variational Quantum Eigensolver Algorithmus (VQE) ](https://pennylane.ai/qml/demos/tutorial\_vqe\_qng.html)erreicht werden. Im Wesentlichen wählen wir einen VQE-Ansatz, so dass der Schaltkreis den exakten Grundzustand nicht erlernen kann, aber er kommt ihm ziemlich nahe. Eine andere Möglichkeit, zum gleichen Ergebnis zu kommen, besteht darin, VQE mit einem vernünftigen Ansatz durchzuführen, den Algorithmus aber zu beenden, bevor er zum Grundzustand konvergiert. Wenn wir den exakten Grundzustand |ψ0⟩
@@ -238,7 +222,6 @@ print(f"Energy Expectation: {energy_exp}")
 ground_state_energy = np.real_if_close(min(np.linalg.eig(ham_matrix)[0]))
 print(f"Ground State Energy: {ground_state_energy}")
 
-
 ```
 
 Wir haben in der Tat einen Nicht-Grundzustand mit niedriger Energie gefunden, da die erwartete Energie etwas größer ist als die Energie des echten Grundzustands. Dies ist jedoch nur die Hälfte der Informationen, die wir benötigen. Wir benötigen auch eine Sammlung zeitlich entwickelter Zustände mit niedriger Energie. Die zeitliche Entwicklung des energiearmen Zustands ist recht einfach: Wir müssen lediglich den Ausgangszustand mit einer Zeitentwicklungseinheit multiplizieren. Diese Operation kann als benutzerdefiniertes Gatter in PennyLane definiert werden:
@@ -248,7 +231,6 @@ def state_evolve(hamiltonian, qubits, time):
 
     U = scipy.linalg.expm(-1j * hamiltonian * time)
     qml.QubitUnitary(U, wires=qubits)
-
 ```
 
 Wir erzeugen zwar noch keine zeitlich veränderten Quantendaten, aber wir haben jetzt alle Teile, die für ihre Vorbereitung erforderlich sind.
@@ -277,7 +259,6 @@ def qgrnn_layer(weights, bias, qubits, graph, trotter_step):
     # Applies a layer of RX gates
     for qubit in qubits:
         qml.RX(2 * trotter_step, wires=qubit)
-
 ```
 
 Wie bereits im ersten Abschnitt erwähnt, hat das QGRNN zwei Register. In einem Register wird ein Teil der Quantendaten |ψ(t)⟩vorbereitet wird und in der anderen haben wir $$U_{H}(\boldsymbol\mu, \ \Delta) |\psi_0\rangle$$|². Um diesen Wert zu berechnen, wird ein SWAP-Test zwischen den Registern durchgeführt:
@@ -312,7 +293,6 @@ new_ising_graph = nx.complete_graph(reg2)
 
 print(f"Edges: {new_ising_graph.edges}")
 nx.draw(new_ising_graph)
-
 ```
 
 ![](<../../.gitbook/assets/grafik (8).png>)
@@ -473,6 +453,6 @@ Die Gewichte der Kanten (1,3) und (2,0) sind sehr nahe an 0
 
 was bedeutet, dass wir den Zyklusgraphen aus dem vollständigen Graphen gelernt haben. Darüber hinaus liegen die übrigen gelernten Gewichte ziemlich nahe an denen des Ziel-Hamiltonianers. Das QGRNN funktioniert also ordnungsgemäß und hat den Ising-Hamiltonschen mit einem hohen Grad an Genauigkeit gelernt!
 
-Thanks a lot to Verdon, G., McCourt, T., Luzhnica, E., Singh, V., Leichenauer, S., & Hidary, J. (2019). Quantum Graph Neural Networks. arXiv preprint [arXiv:1909.12264](https://arxiv.org/abs/1909.12264).&#x20;
+Thanks a lot to Verdon, G., McCourt, T., Luzhnica, E., Singh, V., Leichenauer, S., & Hidary, J. (2019). Quantum Graph Neural Networks. arXiv preprint [arXiv:1909.12264](https://arxiv.org/abs/1909.12264).
 
 and _Jack Ceroni & pennylane team for this awesome article_
