@@ -10,6 +10,7 @@
   * [Visual Studio Code](which-tools-do-you-use/visual-studio-code.md)
   * [GitKraken](which-tools-do-you-use/gitkraken.md)
   * [@Python](which-tools-do-you-use/python/README.md)
+    * [Qutip](which-tools-do-you-use/python/qutip.md)
     * [scikit-learn](which-tools-do-you-use/python/scikit-learn.md)
     * [seaborn](which-tools-do-you-use/python/seaborn.md)
   * [Practical Tool - Circuit Builder](which-tools-do-you-use/practical-tool-circuit-builder.md)
