@@ -6,23 +6,23 @@ description: >-
 
 # Axiome der Quanten-Mechanik
 
-I. Der Zustand eines Systems wird durch den Zustandsvektor |ψi beschrieben.&#x20;
+I. Der Zustand eines Systems wird durch den Zustandsvektor |ψi beschrieben.
 
-II. Die Zeitentwicklung der Zustände wird durch die Schrödinger-Gleichung &#x20;
+II. Die Zeitentwicklung der Zustände wird durch die Schrödinger-Gleichung
 
-![](<../.gitbook/assets/image (1) (1) (1).png>)
+![](<../.gitbook/assets/image (3).png>)
 
-III. \[ Jordansche Regel ]Den Observablen (Meßgr¨oßen) der klassischen Physik entsprechen in der Quantenmechanik hermitesche Operatoren, wobei Funktionen von Observablen Funktionen von Operatoren entsprechen:&#x20;
+III. \[ Jordansche Regel ]Den Observablen (Meßgr¨oßen) der klassischen Physik entsprechen in der Quantenmechanik hermitesche Operatoren, wobei Funktionen von Observablen Funktionen von Operatoren entsprechen:
 
-![](<../.gitbook/assets/image (2) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (9).png>)
 
-IV. \[ Jordansche Regel ] Der Mittelwert/ Erwartungswert einer Observablen mit zugeörigem Operator A ist im Zustand gegeben:&#x20;
+IV. \[ Jordansche Regel ] Der Mittelwert/ Erwartungswert einer Observablen mit zugeörigem Operator A ist im Zustand gegeben:
 
-![](<../.gitbook/assets/image (5) (1) (1).png>)
+![](<../.gitbook/assets/image (17).png>)
 
 V. Wenn bei der Messung von A der Eigenwert an gemessen wird, geht die Wellenfunktion in die entsprechende Eigenfunktion |ani ¨uber.
 
-1.Axiom&#x20;
+1.Axiom
 
 Axiom der Wahrscheinlichkeitsrechnung:
 
@@ -30,7 +30,7 @@ Axiom der Wahrscheinlichkeitsrechnung:
 
 2.Axiom Bornsche Regel
 
-3.Axiom&#x20;
+3.Axiom
 
 2.Axiom
 

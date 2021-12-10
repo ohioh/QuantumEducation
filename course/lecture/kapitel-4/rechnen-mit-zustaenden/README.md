@@ -19,18 +19,18 @@ Bei dem Beginnn in Zustanden und Wahrscheinlichkeiten zu rechnen ( bzw. mit Qubi
 
 Gemischte Zustände sind ein wichtiger Teil um mit Qubits zu rechen. Diese bestehen aus positiven, selbstadjungierten Operatoren der Spur 1.
 
-Diese Vorgehen ist nützlich da wir nun unsere "Mathematik" mit der Messungen aus der Physik abgleichen können. Dies wurde in vielen elementaren Operations ausreichend gemacht, da auf diesen Erfahrungen die System von IBM und Co laufen.&#x20;
+Diese Vorgehen ist nützlich da wir nun unsere "Mathematik" mit der Messungen aus der Physik abgleichen können. Dies wurde in vielen elementaren Operations ausreichend gemacht, da auf diesen Erfahrungen die System von IBM und Co laufen.
 
-Im Endeffekt gleichen wir unsere mathematischen Beschreibung mit die Wissen der Physik ab. Die zu beobachtenden Objekte nennen wir OBSERVABLE. Diese werden mathematisch durch die eben eingeführten [linearer](https://de.wikipedia.org/wiki/Linearer\_Operator)  | [selbstadjunktierten Operatoren ](https://www.math.uni-hamburg.de/home/lauterbach/scripts/fa16/v24.pdf)im Hilbert-Raum beschrieben.
+Im Endeffekt gleichen wir unsere mathematischen Beschreibung mit die Wissen der Physik ab. Die zu beobachtenden Objekte nennen wir OBSERVABLE. Diese werden mathematisch durch die eben eingeführten [linearer](https://de.wikipedia.org/wiki/Linearer\_Operator) | [selbstadjunktierten Operatoren ](https://www.math.uni-hamburg.de/home/lauterbach/scripts/fa16/v24.pdf)im Hilbert-Raum beschrieben.
 
 Zu der quantenmechanischen Betrachtung gehören neben der "Observablen" bekannte Begriffe:
 
-![](<../../../../.gitbook/assets/grafik (15).png>)
+![](<../../../../.gitbook/assets/grafik (55).png>)
 
-![](<../../../../.gitbook/assets/grafik (10) (1) (1) (1).png>)
+![](<../../../../.gitbook/assets/grafik (43).png>)
 
-Der Begriff "ERWARTUNGSWERT" bezieht sich auf  den Mittelwert einer Messreihe
+Der Begriff "ERWARTUNGSWERT" bezieht sich auf den Mittelwert einer Messreihe
 
-Für quantenmechanische Betrachtung  der  realtiven Häufigkeit wird der Begriff der WAHRSCHEINLICHKEIT benutzt. Die "Summe aller Dinge" aus Wahrscheinlichkeit und Mittelwert nennen wir ab nun ZUSTAND.
+Für quantenmechanische Betrachtung der realtiven Häufigkeit wird der Begriff der WAHRSCHEINLICHKEIT benutzt. Die "Summe aller Dinge" aus Wahrscheinlichkeit und Mittelwert nennen wir ab nun ZUSTAND.
 
 [Nächster Abschnitt:](../../../../euer-privater-vorkurs/mathe/hilbert-raum-1.md)

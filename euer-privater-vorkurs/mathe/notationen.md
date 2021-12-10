@@ -10,4 +10,4 @@ description: '@Glimpse ( coming soon )'
 
 [https://www.beuth.de/de/norm/din-1302/20122828](https://www.beuth.de/de/norm/din-1302/20122828)
 
-![](<../../../.gitbook/assets/grafik (5) (1) (1).png>)
+![](<../../.gitbook/assets/grafik (16).png>)

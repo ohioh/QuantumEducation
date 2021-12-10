@@ -4,4 +4,4 @@ description: '@Pennylane: https://pennylane.ai/qml/demos/tutorial_haar_measure.h
 
 # Understanding the Haar Measure
 
-![](<../../../.gitbook/assets/grafik (1) (1) (1).png>)
+![](<../../../.gitbook/assets/grafik (17).png>)

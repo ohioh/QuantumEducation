@@ -1,24 +1,24 @@
 # Symbole
 
-Superposition: left none mline %psi  right rangle als Ket ( Spalten-Vektor )
+Superposition: left none mline %psi right rangle als Ket ( Spalten-Vektor )
 
 left langle %psi mline right none
 
 left none mline %psi right rangle
 
-![](<../../../../.gitbook/assets/grafik (6) (1).png>)
+![](<../../../.gitbook/assets/grafik (19).png>)
 
 left none mline %psi sup "\*" right rangle= a\_{1} \*left ( stack{1 # 0 # 0} right ) + a\_{2}\* left ( stack{0 # 1 # 0} right ) a\_{3}
 
-![](<../../../../.gitbook/assets/grafik (8) (1) (1).png>)
+![](<../../../.gitbook/assets/grafik (30).png>)
 
 stack{ left langle %PHI mline right none left none %psi right rangle = a\_{1}_c\_{1}sup "_" + a\_{2}_c\_{2}sup "_" + a\_{3}_c\_{3} sup "_"
 
 }
 
-![](<../../../../.gitbook/assets/grafik (9) (1) (1).png>)
+![](<../../../.gitbook/assets/grafik (33).png>)
 
-stack{ left none mline %psi right rangle&#x20;
+stack{ left none mline %psi right rangle
 
 a\_{1} \*left none mline X right rangle
 
@@ -27,7 +27,7 @@ a\_{1} \*left none mline X right rangle
 
 }
 
-![](<../../../../.gitbook/assets/grafik (10) (1) (1).png>)
+![](<../../../.gitbook/assets/grafik (37).png>)
 
 ```
 stack{ 
@@ -42,7 +42,7 @@ lline  size 15 {%psi} size 20 {x}  size 15 {%psi} rline  =
 }
 ```
 
-![](<../../../../.gitbook/assets/grafik (17).png>)
+![](<../../../.gitbook/assets/grafik (58).png>)
 
 ```
 stack{ 
@@ -52,7 +52,7 @@ a_{1} * a_{ 1 } sup "*"
 }
 ```
 
-![](<../../../../.gitbook/assets/grafik (6).png>)
+![](<../../../.gitbook/assets/grafik (14).png>)
 
 ```
 stack{ 
@@ -64,7 +64,7 @@ left none mline %psi  right rangle  =
 }
 ```
 
-![](<../../../../.gitbook/assets/grafik (9) (2).png>)
+![](<../../../.gitbook/assets/grafik (32).png>)
 
 ```
  abs{%alpha}^2 + abs{%beta}^2 = 1

@@ -6,15 +6,10 @@ description: >-
 
 # Kapitel 3
 
-
-
 Brake Out: Fun with Quantum: [https://github.com/JanLahmann/Fun-with-Quantum](https://github.com/JanLahmann/Fun-with-Quantum)
 
 Additionally: [https://github.com/qiskit-community/qiskit-community-tutorials](https://github.com/qiskit-community/qiskit-community-tutorials)
 
-Algorithmen und  Datenstrukturen im Kontext Alan Turing:
+Algorithmen und Datenstrukturen im Kontext Alan Turing:
 
-
-
-![](<../../.gitbook/assets/grafik (9) (1) (1) (1) (1).png>)
-
+![](<../../.gitbook/assets/grafik (44).png>)

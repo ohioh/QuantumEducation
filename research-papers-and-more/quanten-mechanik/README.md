@@ -4,11 +4,11 @@ description: '@Glimpse ( coming soon )'
 
 # Quanten-Mechanik
 
-Need to know: &#x20;
+Need to know:
 
 \[#Q-Beginn]
 
-**Bellsche Ungleichung:**                                                                                                               Zusammenfassung:
+**Bellsche Ungleichung:** Zusammenfassung:
 
 Basierend auf der Arbeit von John Bell im Jahre 1964 ist dies die Thematisierung der kritischen Fragestellung von Einstein ( siehe [EPR ](https://de.wikipedia.org/wiki/Einstein-Podolsky-Rosen-Paradoxon)) zur Paradoxie und behaupteten Unvollständigkeit der Quantenmechanik.
 
@@ -41,7 +41,7 @@ Der Bell-Zustand beschreibt daher einen von vier möglichen Zuständen. |0> && |
 Als neuer Begriff wurde auch der Begriff des Qubits für die Beschreibung eines 2 dimensionalen [Hilbertraums](https://de.wikipedia.org/wiki/Hilbertraum) eingeführt
 
 \
-![](<../../.gitbook/assets/image (6) (1).png>)
+![](<../../.gitbook/assets/image (18).png>)
 
 {% embed url="https://de.wikipedia.org/wiki/Bell-Zustand" %}
 
@@ -49,9 +49,9 @@ Als neuer Begriff wurde auch der Begriff des Qubits für die Beschreibung eines 
 
 {% embed url="https://de.wikipedia.org/wiki/Bloch-Kugel" %}
 
-****[**Einstein-Podolsky-Rosen-Paradox:**](https://de.wikipedia.org/wiki/Einstein-Podolsky-Rosen-Paradoxon) **\[#Q-Hard]**
+\*\*\*\*[**Einstein-Podolsky-Rosen-Paradox:**](https://de.wikipedia.org/wiki/Einstein-Podolsky-Rosen-Paradoxon) **\[#Q-Hard]**
 
-**Zusammenfassung:** &#x20;
+**Zusammenfassung:**
 
 Diese Theorie wurde durch Experimente widerlegt. Dennoch ist die Betrachtung durchaus sinnvoll um die Perspektive der Zeit und die damit einhergehende Entwicklung aus der Diskussion der damaligen Zeit zu verinnerlichen.
 

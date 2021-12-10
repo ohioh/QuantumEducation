@@ -11,7 +11,7 @@ Mathematics of Quantum Informatics by Wolfgang Scherer: This is a great book for
 
 Link zu Springer : [https://link.springer.com/book/10.1007/978-3-662-49080-8](https://link.springer.com/book/10.1007/978-3-662-49080-8)
 
-Spektrum\_Kompakt:  Quantentechnologie ist ein Ausschnitt aus dem Magazin, der eine gute Grundlage über die 3 Quanten-Hardware  Philosophien vermittelt.
+Spektrum\_Kompakt: Quantentechnologie ist ein Ausschnitt aus dem Magazin, der eine gute Grundlage über die 3 Quanten-Hardware Philosophien vermittelt.
 
 Link zum Verlag: [https://www.spektrum.de/pdf/spektrum-kompakt-quantencomputer-praxis/1932478?gclid=EAIaIQobChMI48ra\_-2N9AIVGuqyCh0t1wMQEAQYBCABEgI\_UPD\_BwE](https://www.spektrum.de/pdf/spektrum-kompakt-quantencomputer-praxis/1932478?gclid=EAIaIQobChMI48ra\_-2N9AIVGuqyCh0t1wMQEAQYBCABEgI\_UPD\_BwE)
 
@@ -29,9 +29,9 @@ Selbstverständlich dürfen die genialen Bücher von Feynman nicht fehlen. Lectu
 
 [https://www.feynmanlectures.caltech.edu/](https://www.feynmanlectures.caltech.edu)
 
-Um in die Gedankenwelt und Perspektive einzutauen ist das Buch "Warum ist E=mc²" ( im Kosmos Verlag erschienen ) sehr gut. Gerade um die Entwicklung der Physik zu verstehen und auch die Differnezierung von Fermionen und Bosonen  zu verstehen:
+Um in die Gedankenwelt und Perspektive einzutauen ist das Buch "Warum ist E=mc²" ( im Kosmos Verlag erschienen ) sehr gut. Gerade um die Entwicklung der Physik zu verstehen und auch die Differnezierung von Fermionen und Bosonen zu verstehen:
 
-![](<.gitbook/assets/grafik (16) (1).png>)
+![](<.gitbook/assets/grafik (57).png>)
 
 {% embed url="https://www.kosmos.de/buecher/ratgeber-naturfuehrer/astronomie/einsteiger/6477/warum-ist-e-mc2" %}
 

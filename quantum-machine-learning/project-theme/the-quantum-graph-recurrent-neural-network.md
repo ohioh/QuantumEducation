@@ -26,9 +26,9 @@ Betrachten wir die Klasse der Qubit-Hamiltonianer, die quadratisch sind, was bed
 
 Ein bekanntes Beispiel für einen [quadratischen Hamiltonian](https://www.spektrum.de/lexikon/mathematik/quadratische-hamilton-funktion/9589) ist das [Ising-Modell](https://de.wikipedia.org/wiki/Ising-Modell) mit [transversalem Feld](https://de.wikipedia.org/wiki/Transversalelektromagnetische\_Welle), das wie folgt definiert ist
 
-![](<../../.gitbook/assets/grafik (14) (1).png>)
+![](<../../.gitbook/assets/grafik (14) (1) (1).png>)
 
-mit ![](<../../.gitbook/assets/grafik (11) (1).png>)
+mit ![](<../../.gitbook/assets/grafik (11) (1) (1).png>)
 
 In diesem Hamiltonian kann die Menge E, die bestimmt, welche Paare von Qubits ZZ-Wechselwirkungen haben, durch die Menge der Kanten eines Graphen dargestellt werden. Mit den Qubits als Knoten wird dieser Graph als Interaktionsgraph bezeichnet. Die θ(1)-Parameter entsprechen den Kantengewichten und die θ(2)
 
@@ -36,17 +36,17 @@ Parameter entsprechen den Gewichten der Knoten.
 
 Dieses Ergebnis impliziert, dass wir über Quantenschaltungen mit graphentheoretischen Eigenschaften nachdenken können. Erinnern Sie sich, dass der Zeitentwicklungsoperator in Bezug auf einen Hamiltonian H definiert ist als:
 
-![](<../../.gitbook/assets/grafik (4) (1).png>)
+![](<../../.gitbook/assets/grafik (4) (1) (1).png>)
 
 So haben wir eine saubere Möglichkeit, quadratische Hamiltonianer in [Einheitsvektoren ](https://de.wikipedia.org/wiki/Einheitsvektor)(Quantenschaltungen) [\[ siehe auch Unitry Transfomration \] ](https://en.wikipedia.org/wiki/Unitary\_transformation\_\(quantum\_mechanics\))[\[@paper "Learningn Unitaries by Gradient Descent \] ](https://arxiv.org/pdf/2001.11897.pdf)umzuwandeln, die dieselbe Entsprechung zu einem Graphen haben. Im Fall des Ising-Hamiltonschen haben wir Folgendes:
 
-![](<../../.gitbook/assets/grafik (16).png>)
+![](<../../.gitbook/assets/grafik (16) (1).png>)
 
 Im Allgemeinen ist es sehr schwierig, diese Art von Unitarität auf einem Quantencomputer zu implementieren. Wir können sie jedoch mit Hilfe der [Trotter-Suzuki-Zerlegung](https://en.wikipedia.org/wiki/Time-evolving\_block\_decimation#The\_Suzuki-Trotter\_expansion) annähern:
 
-![](<../../.gitbook/assets/grafik (9).png>)
+![](<../../.gitbook/assets/grafik (9) (1).png>)
 
-mit ![](<../../.gitbook/assets/grafik (18).png>)ist der j-te Term des Ising-Hamiltonschen und Δ
+mit ![](<../../.gitbook/assets/grafik (18) (1).png>)ist der j-te Term des Ising-Hamiltonschen und Δ
 
 eine kleine Zahl ist.
 
@@ -86,7 +86,7 @@ Wir verwenden dann einen klassischen Optimierer, um die durchschnittliche "Ähnl
 
 Da die QGRNN-Zustände jedem zeitlich entwickelten Zustand für jede abgetastete Zeit immer ähnlicher werden, folgt daraus, dass μ → α und wir sind in der Lage, die unbekannten Parameter des Hamiltonian zu lernen.
 
-![](<../../.gitbook/assets/grafik (11).png>)
+![](<../../.gitbook/assets/grafik (11) (1).png>)
 
 Eine visuelle Darstellung einer Ausführung des QGRNN für einen Teil der Quantendaten.
 
@@ -180,7 +180,7 @@ plt.matshow(ham_matrix, cmap="hot")
 plt.show()
 ```
 
-![](<../../.gitbook/assets/grafik (10).png>)
+![](<../../.gitbook/assets/grafik (10) (1).png>)
 
 ## Quantum-Data vorbereiten:
 
@@ -295,7 +295,7 @@ print(f"Edges: {new_ising_graph.edges}")
 nx.draw(new_ising_graph)
 ```
 
-![](<../../.gitbook/assets/grafik (8).png>)
+![](<../../.gitbook/assets/grafik (8) (1).png>)
 
 Auf diese Weise implementieren wir die QGRNN-Schaltung für einen bestimmten Zeitwert:
 
@@ -413,7 +413,7 @@ plt.subplots_adjust(wspace=0.3, hspace=0.3)
 plt.show()
 ```
 
-![](<../../.gitbook/assets/grafik (4).png>)
+![](<../../.gitbook/assets/grafik (4) (1).png>)
 
 Diese Bilder sehen sehr ähnlich aus, was darauf hindeutet, dass das QGRNN den Ziel-Hamiltonian gut gelernt hat.
 

@@ -6,13 +6,13 @@ description: >-
 
 # ClassicalMachineLearning
 
-[Machinelles Lernen](https://de.wikipedia.org/wiki/Maschinelles\_Lernen) :  Basierend auf vorhandenen Daten wird ein [statistisches Modell](https://de.wikipedia.org/wiki/Statistisches\_Modell) aufgebaut und getestet. Dies kann dann genutzt werden um im Produktiv-Einsatz Entscheidungen zu treffen.
+[Machinelles Lernen](https://de.wikipedia.org/wiki/Maschinelles\_Lernen) : Basierend auf vorhandenen Daten wird ein [statistisches Modell](https://de.wikipedia.org/wiki/Statistisches\_Modell) aufgebaut und getestet. Dies kann dann genutzt werden um im Produktiv-Einsatz Entscheidungen zu treffen.
 
 ![https://datasolut.com/machine-learning-vs-deep-learning/](../../../.gitbook/assets/image.png)
 
-![](<../../../.gitbook/assets/image (7) (1).png>)
+![](<../../../.gitbook/assets/image (19).png>)
 
-scikit-learn:&#x20;
+scikit-learn:
 
 * Simple and efficient tools for predictive data analysis
 * Accessible to everybody, and reusable in various contexts

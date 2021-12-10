@@ -16,14 +16,12 @@ Das **Vektorprodukt dient dazu, denn Flächeninhalt zu berechnen, den zwei Vekto
 
 Unterschiede gibt es auch bei den Rechenvorschriften, beim Skalarprodukt gilt das Kommutativgesetz, bei Vektorprodukt hingegen gilt dies nicht.
 
-![](<../../../.gitbook/assets/grafik (5) (1) (1) (1).png>)
+![](<../../.gitbook/assets/grafik (18).png>)
 
-![](<../../../.gitbook/assets/grafik (3) (1) (1).png>)
+![](<../../.gitbook/assets/grafik (9).png>)
 
-![](<../../../.gitbook/assets/grafik (4) (1) (1) (1).png>)
+![](<../../.gitbook/assets/grafik (15).png>)
 
-![zwei Vektoren  werden einem Skalar zugehordnet](<../../../.gitbook/assets/grafik (11) (1) (1).png>)
+![zwei Vektoren  werden einem Skalar zugehordnet](<../../.gitbook/assets/grafik (47).png>)
 
-
-
-![](<../../../.gitbook/assets/grafik (8) (1) (1) (1).png>)
+![](<../../.gitbook/assets/grafik (36).png>)
