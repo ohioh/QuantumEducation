@@ -9,6 +9,8 @@
 * [Which tools do you use ?](which-tools-do-you-use/README.md)
   * [Visual Studio Code](which-tools-do-you-use/visual-studio-code.md)
   * [GitKraken](which-tools-do-you-use/gitkraken.md)
+  * [@Python](which-tools-do-you-use/python/README.md)
+    * [seaborn](which-tools-do-you-use/python/seaborn.md)
   * [Practical Tool - Circuit Builder](which-tools-do-you-use/practical-tool-circuit-builder.md)
 * [Self-study-Guide](euer-privater-vorkurs/README.md)
   * [Clean Code](euer-privater-vorkurs/clean-code.md)
