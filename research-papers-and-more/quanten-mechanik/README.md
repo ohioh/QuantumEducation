@@ -43,6 +43,12 @@ Als neuer Begriff wurde auch der Begriff des Qubits für die Beschreibung eines 
 \
 ![](<../../.gitbook/assets/image (18).png>)
 
+{% embed url="https://en.wikipedia.org/wiki/Bell_test" %}
+
+A Experiment:&#x20;
+
+{% embed url="https://www.quantamagazine.org/physicists-are-closing-the-bell-test-loophole-20170207" %}
+
 {% embed url="https://de.wikipedia.org/wiki/Bell-Zustand" %}
 
 \[#Q-Beginn]
