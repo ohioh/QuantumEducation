@@ -10,35 +10,25 @@ Need to know:
 
 **Bellsche Ungleichung:** Zusammenfassung:
 
-Basierend auf der Arbeit von John Bell im Jahre 1964 ist dies die Thematisierung der kritischen Fragestellung von Einstein ( siehe [EPR ](https://de.wikipedia.org/wiki/Einstein-Podolsky-Rosen-Paradoxon)) zur Paradoxie und behaupteten Unvollständigkeit der Quantenmechanik.
+Bell's Inequality: Summary: Based on the work of John Bell in 1964, this is the thematization of Einstein's critical question ( see EPR ) on the paradox and claimed incompleteness of quantum mechanics. Explicitly, it is about the predictability of quantum mechanical properties ( or phenomena ) like the entanglement of quantum mechanics. Bell's inequality seems a bit confusing at first, because it formulates the unsatisfiability according to Einstein. This led to the fact that experiments were accomplished which disprove this inequality and thus which confirm the quantum mechanics. A summary on Wikipedia almost summarizes the EPR as follows: "As early as 1935, Albert Einstein, Boris Podolsky, and Nathan Rosen,\[2] or EPR for short, had shown that the local-realistic point of view of classical physics forces one to ascribe individual properties to particles that govern their own behavior when measured, thus faking quantum mechanical randomness. The three authors concluded that quantum theory must be incomplete." "No exchange of information can be faster than light" ( Loosely based on Einstein ). Bell showed, however, that if one follows Einstein's concept and at the same time assumes that information can propagate at the maximum speed of light, then in certain experiments on pairs of particles the measurement results should always satisfy his inequality. However, the quantum theory predicts the violation of the inequality in certain cases for entangled particles. What was a thought experiment by Bell in 1964 was confirmed by real experiments from 1972, first\[3] by Stuart Freedman and John Clauser.\[4]
 
-Explizit geht es um die Vorhersagbarkeit von Quantenmechanischen Eigenschaften ( bzw. Phänomenen ) wie der Verschränkung der Quantenmechanik.
 
-Die Bellsche Ungleichung wirkt erstmal etwas verwirrend, da sie die nicht Erfüllbarkeit nach Einstein ausformuliert. Dies hat dazu geführt, dass Experimente durchgeführt wurden, die diese Ungleichheit widerlegen und somit die die Quantenmechanik bestätigen.
-
-Eine Zusammenfassung auf Wikipedia fast das EPR folgend zusammen:
-
-„Schon 1935 hatten [Albert Einstein](https://de.wikipedia.org/wiki/Albert\_Einstein), [Boris Podolsky](https://de.wikipedia.org/wiki/Boris\_Podolsky) und [Nathan Rosen](https://de.wikipedia.org/wiki/Nathan\_Rosen),[\[2\]](https://de.wikipedia.org/wiki/Bellsche\_Ungleichung#cite\_note-2) kurz [EPR](https://de.wikipedia.org/wiki/Einstein-Podolsky-Rosen-Paradoxon), gezeigt, dass der lokal-realistische Standpunkt der [klassischen Physik](https://de.wikipedia.org/wiki/Klassische\_Physik) dazu zwingt, den Teilchen individuelle Eigenschaften zuzuschreiben, die ihr eigenes Verhalten bei Messungen steuern und damit den [quantenmechanischen](https://de.wikipedia.org/wiki/Quantenmechanisch) Zufall vortäuschen. Die drei Autoren schlossen daraus, dass die [Quantentheorie](https://de.wikipedia.org/wiki/Quantentheorie) unvollständig sein musste.“
-
-„Kein Informationsaustausch kann schneller als das Licht sein“ ( Frei nach Einstein )
-
-Bell zeigte jedoch, dass, wenn man Einsteins Konzept folgt und gleichzeitig davon ausgeht, dass sich Informationen maximal mit Lichtgeschwindigkeit ausbreiten kann, bei bestimmten Experimenten an Teilchenpaaren die Messergebnisse seine Ungleichung stets erfüllen müssten. Die Quantentheorie sagt aber in bestimmten Fällen für verschränkte Teilchen die Verletzung der Ungleichung voraus. Was 1964 bei Bell ein [Gedankenexperiment](https://de.wikipedia.org/wiki/Gedankenexperiment) war, wurde ab 1972 durch echte Experimente, zuerst[\[3\]](https://de.wikipedia.org/wiki/Bellsche\_Ungleichung#cite\_note-3) von [Stuart Freedman](https://de.wikipedia.org/wiki/Stuart\_Freedman) und [John Clauser](https://de.wikipedia.org/wiki/John\_Clauser), bestätigt.[\[4\]](https://de.wikipedia.org/wiki/Bellsche\_Ungleichung#cite\_note-FC72-4)
 
 {% embed url="https://de.wikipedia.org/wiki/Bellsche_Ungleichung" %}
 
 \[#Q-Beginn]
 
-### Bell-Zustand
+Bell-Zustand Der Bell-Zusand beschreibt ein pysikalisches System aus mehreren Teilchen, dass Korrelation zeigt, die mit der klassichen Physik nicht erklärbar sind. Der Bell-Zustand beinhaltet all diese Phänomen, ist jedoch für das stark ausgeprägten Phänomen der Quantenverschränkung hervorragend gut geeignet. Wichtig hierbei ist der Bezug zu den elementaren Betrachtungsweisen der Lokalität und Realität, die parallel nicht in der Theorie vorhanden sein können. Der Bell-Zustand beschreibt daher einen von vier möglichen Zuständen. |0> && |1> bezeichnet man als Basis-Zustände. Diese verletzen die Bell’sche Ungleichung maximal. Als neuer Begriff wurde auch der Begriff des Qubits für die Beschreibung eines 2 dimensionalen Hilbertraums eingeführt
 
-Der Bell-Zusand beschreibt ein pysikalisches System aus mehreren Teilchen, dass Korrelation zeigt, die mit der klassichen Physik nicht erklärbar sind.
 
-Der Bell-Zustand beinhaltet all diese Phänomen, ist jedoch für das stark ausgeprägten Phänomen der [Quantenverschränkung](https://de.wikipedia.org/wiki/Quantenverschr%C3%A4nkung) hervorragend gut geeignet.
 
-Wichtig hierbei ist der Bezug zu den elementaren Betrachtungsweisen der Lokalität und Realität, die parallel nicht in der Theorie vorhanden sein können.
 
-Der Bell-Zustand beschreibt daher einen von vier möglichen Zuständen. |0> && |1> bezeichnet man als Basis-Zustände. Diese verletzen die [Bell’sche Ungleichung](https://de.wikipedia.org/wiki/Bellsche\_Ungleichung) maximal.
 
-Als neuer Begriff wurde auch der Begriff des Qubits für die Beschreibung eines 2 dimensionalen [Hilbertraums](https://de.wikipedia.org/wiki/Hilbertraum) eingeführt
+
+
+
+
+
 
 \
 ![](<../../.gitbook/assets/image (18).png>)
@@ -57,30 +47,26 @@ A Experiment:&#x20;
 
 \*\*\*\*[**Einstein-Podolsky-Rosen-Paradox:**](https://de.wikipedia.org/wiki/Einstein-Podolsky-Rosen-Paradoxon) **\[#Q-Hard]**
 
-**Zusammenfassung:**
+Summary: This theory was disproved by experiments. Nevertheless, the consideration is quite meaningful to internalize the perspective of the time and the development accompanying with it from the discussion of the time. (The discussion was based on the then current assumptions of physics. 1. causality principle 2.universality 3. locality 4. time independence ) To my knowledge the locality was replaced by the superposition. Einstein called this phenomenon "spooky action at a distance". Challenge was the theoretical consideration of quantum mechanics as a complete theory with the following condition: "In a complete theory, every element of physical reality must have a counterpart. A physical quantity whose value can be predicted with certainty without disturbing the system on which it is measured is an element of physical reality. "https://de.wikipedia.org/wiki/Einstein-Podolsky-Rosen-Paradoxon Heisenberg describes in the uncertainty relation that either the place or impulse can be considered. At the same time this excludes itself. From the perspective of EPR, the measurement of object 1 or measurement of place or impulse and the derivation on object 2 cannot come to a disturbance with the elements of the reality of object two. The assumption of locality says that processes of this kind can have asuwirkung only on the direct spatial environment of object 1. Consequently, quantum mechanics and Heisenberg's assumption are not correct. Niels Bohr contradicted this assumption, because the "disturbance-free measurement" is not defined adequately, because only one reality is assumed. The attempt of measurement of place and momentum ( as complementary attempt ) exclude each other. Both quantities exist, but can not be part of the same reality, but elements of two complementary realities. To illustrate this, one can mention the apple example. Does gravity belong to the reality of place and time? Yes, on earth, but not in the universe. Reality is therefore rather a situation description instead of a constant. Therefore the reader is allowed to question which realities exist and which observables can be assigned to which of these realities. An assertion is not a proof, even if the counter-evidence is missing, it is to be assumed that both assumptions are correct, until the proof disproves one side.
 
-Diese Theorie wurde durch Experimente widerlegt. Dennoch ist die Betrachtung durchaus sinnvoll um die Perspektive der Zeit und die damit einhergehende Entwicklung aus der Diskussion der damaligen Zeit zu verinnerlichen.
 
-(Die Diskussion wurde auf den Grundlagen der damals aktuellen Annahmen der Physik geführt. 1. [Kausalitätsprinzip ](https://physikbuch.schule/basic-assumptions-about-nature.html#causality)2.Universalität 3. Lokalität 4. Zeitunabhängigkeit ) Meines Wissens wurde die Lokalität durch die Superposition abgelöst
 
-Einstein nannte dieses Phänomen „spukhafte Fernwirkung“
 
-Herausforderung war die theoretische Betrachtung der Quanten-Mechanik als vollständige Theorie mit folgender Bedingung:
 
-„In einer vollständigen Theorie muss _jedes Element der physikalischen Realität_ eine Entsprechung haben.
 
-Eine physikalische Größe, deren Wert mit Sicherheit vorhersagbar ist, ohne das System, an dem sie gemessen wird, zu stören, ist ein _Element der physikalischen Realität_.“[https://de.wikipedia.org/wiki/Einstein-Podolsky-Rosen-Paradoxon](https://de.wikipedia.org/wiki/Einstein-Podolsky-Rosen-Paradoxon)
 
-Heisenberg beschreibt in der [Unschärferelation](https://de.wikipedia.org/wiki/Heisenbergsche\_Unsch%C3%A4rferelation), dass entweder der Ort oder Impuls betrachtet werden könne. Gleichzeit schließe sich dieses aus.
 
-Aus der Perspektive EPR’s kann die Messung von Objekt 1 bzw Messung von Ort oder Impuls und die Ableitung auf Objekt 2 nicht zu einer Störung bei den Elementen der Realität von Objekt zwei kommen. Die Annahme der Lokalität besagt, dass Vorgänge dieser Art nur Asuwirkung auf die direkte räumliche Umgebung von Objekt 1 haben kann.
 
-Folglich sei die Quantenmechanik und Heisenbergs Annahme nicht richtig.
 
-[Niels Bohr ](https://de.wikipedia.org/wiki/Niels\_Bohr)widersprach dieser Annahme, da die „störungsfreie Messung“ nicht angemessen definiert werde, da nur von einer Realität ausgegangen werde.
 
-Der Versuch der Messung von Ort und Impuls ( als komplementärer Versuch ) schließen sich aus. Beide Größen existieren, können folglich dennoch nicht Teil der gleichen Realität sein, sonder Elemente zweier komplementärer Realitäten.
 
-Um dieses zu verbildlichen kann man das Apfel-Beispiel nennen. Gehört Schwerkraft in die Realität von Ort und Zeit. Ja, auf der Erde, schon nicht aber im Universum. Realität ist daher eher eine Situationsbeschreibung statt eine Konstante. Daher sei dem Leser\*in eingeräumt zu hinterfragen, welche Realitäten existieren und welche Observablen, welcher dieser Realitäten zugeordnet werden können. Eine Behauptung stellt kein Beweis da auch wenn der Gegenbeweis fehlt, sei davon aus zu gehen, dass beide Annahmen richtig sind, bis die Beweisführung eine Seite widerlegt.
+
+
+
+
+
+[Niels](https://de.wikipedia.org/wiki/Niels\_Bohr)
+
+
 
 \[Q-Hard] Zur Quantenmechanik der Stoßvorgänge \[-Max Born] https://link.springer.com/article/10.1007%2FBF01397477
