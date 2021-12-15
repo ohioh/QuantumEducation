@@ -32,6 +32,7 @@
     * [PCA](euer-privater-vorkurs/stochastik/pca.md)
   * [Mathe](euer-privater-vorkurs/mathe/README.md)
     * [Geometry](euer-privater-vorkurs/mathe/geometry/README.md)
+      * [Page 1](euer-privater-vorkurs/mathe/geometry/page-1.md)
       * [Lie groups & continuous symmetries](euer-privater-vorkurs/mathe/geometry/lie-groups-and-continuous-symmetries.md)
       * [Euclidean and non-Euclidean geometry](euer-privater-vorkurs/mathe/geometry/euclidean-and-non-euclidean-geometry.md)
     * [numeric linear algebra for Coders](euer-privater-vorkurs/mathe/numeric-linear-algebra-for-coders.md)
