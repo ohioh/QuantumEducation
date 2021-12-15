@@ -233,7 +233,9 @@
   * [Deutsch-Joza](quantum-hommage/deutsch-joza/README.md)
     * [Simon's problem](quantum-hommage/deutsch-joza/simons-problem.md)
 * [Quantum @ LinuxFoundation](quantum-linuxfoundation/README.md)
-  * [Page 1](quantum-linuxfoundation/page-1.md)
+  * [QIR](quantum-linuxfoundation/qir.md)
+  * [aide-qc](quantum-linuxfoundation/aide-qc.md)
+  * [QCoDeS](quantum-linuxfoundation/qcodes.md)
 
 ## Github
 
