@@ -31,6 +31,8 @@
   * [Stochastik](euer-privater-vorkurs/stochastik/README.md)
     * [PCA](euer-privater-vorkurs/stochastik/pca.md)
   * [Mathe](euer-privater-vorkurs/mathe/README.md)
+    * [Geometry](euer-privater-vorkurs/mathe/geometry.md)
+    * [Euclidean and non-Euclidean geometry](euer-privater-vorkurs/mathe/euclidean-and-non-euclidean-geometry.md)
     * [numeric linear algebra for Coders](euer-privater-vorkurs/mathe/numeric-linear-algebra-for-coders.md)
     * [Graphen-Theorie](euer-privater-vorkurs/mathe/graphen-theorie.md)
     * [Einsteins Summenkonventiom](euer-privater-vorkurs/mathe/einsteins-summenkonventiom.md)
