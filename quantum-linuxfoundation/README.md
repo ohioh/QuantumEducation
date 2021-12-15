@@ -1,5 +1,7 @@
 ---
 coverY: 0
+cover: >-
+  https://cdn1.vogel.de/unsafe/540x0/smart/images.vogel.de/vogelonline/bdb/1723000/1723059/original.jpg
 ---
 
 # Quantum @ LinuxFoundation
