@@ -3,9 +3,13 @@ description: >-
   Enclosed I have collected a few books that have helped me or are still on the
   "ToDo" list because they were recommended to me.
 coverY: 0
+cover: >-
+  https://storage.googleapis.com/yk-cdn/photos/pdp/thibaud-poirier/trinity-college-library.jpg
 ---
 
 # Literature list
+
+@Picture [\[ LINK \] ](https://storage.googleapis.com/yk-cdn/photos/pdp/thibaud-poirier/trinity-college-library.jpg)
 
 Mathematics of Quantum Informatics by Wolfgang Scherer: This is a great book for the skill to calculate with quanta in full depth and to be prepared to understand the scientific work at least from the mathematics side.
 

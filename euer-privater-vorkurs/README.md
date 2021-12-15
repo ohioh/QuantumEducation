@@ -4,11 +4,9 @@ description: >-
   consolidate and supplement your knowledge before the official start of the
   course. For the course progression, the preliminary c
 coverY: 0
-cover: >-
-  https://discoveryjo.files.wordpress.com/2020/11/20210106154047.jpg?w=1080&h=720&crop=1
 ---
 
-# Self-study-Guide
+# Self-study
 
 \----> Dieser Teil ist in Bearbeitung und wird im 1 Quartal 2022 zur Verfügung stehen.
 
