@@ -25,19 +25,19 @@ Gill brassard
 
 B. Schumacher Quantum coding
 
-D. R. Simon&#x20;
+D. R. Simon
 
 John Bell
 
 Von Neumann
 
-pearlPearl&#x20;
+pearlPearl
 
 Feynman
 
-David Bohm&#x20;
+David Bohm  -> [Aharonov-Bohm-Effekt](https://de.wikipedia.org/wiki/Aharonov-Bohm-Effekt)
 
-David Deutsch&#x20;
+David Deutsch
 
 Grover
 
