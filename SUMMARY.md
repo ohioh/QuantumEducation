@@ -101,6 +101,7 @@
       * [Symbole](euer-privater-vorkurs/offtopic/libreoffice-math/symbole.md)
   * [Griechisch für Anfänger](euer-privater-vorkurs/notationen.md)
 * [Course](course/README.md)
+  * [Quantum Capstone](course/quantum-capstone.md)
   * [Lecture](course/lecture/README.md)
     * [Kapitel 2](course/lecture/kapitel-2.md)
     * [Kapitel 3](course/lecture/kapitel-3.md)
