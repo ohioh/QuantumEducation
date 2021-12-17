@@ -23,3 +23,9 @@ Algorthms and model views ( [https://gym.openai.com/envs/#mujoco](https://gym.op
 \-> from [https://www.data-science-architect.de/reinforcement-learning-mit-python/](https://www.data-science-architect.de/reinforcement-learning-mit-python/)
 
 @nature [https://www.nature.com/articles/nature14236](https://www.nature.com/articles/nature14236)
+
+
+
+examples of decision under uncertainty:
+
+@paper [\[ LINK \]](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/enterprise-office/public/Decision-making-under-uncertainty-FINAL.pdf)
