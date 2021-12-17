@@ -2,5 +2,6 @@
 description: '@Glimpse ( coming soon )'
 ---
 
-# Stochastik
+# Stochastic & statistic
 
+@page [\[ LINK \]](https://welt-der-bwl.de/Verteilung)

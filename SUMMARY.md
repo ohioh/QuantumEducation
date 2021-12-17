@@ -29,7 +29,7 @@
     * [Visuelle Physik](euer-privater-vorkurs/physik/visuelle-physik.md)
     * [Einstieg Quanten-Mechanik](euer-privater-vorkurs/physik/einstieg-quanten-mechanik.md)
     * [Math behind](euer-privater-vorkurs/physik/math-behind.md)
-  * [Stochastik](euer-privater-vorkurs/stochastik/README.md)
+  * [Stochastic & statistic](euer-privater-vorkurs/stochastik/README.md)
     * [PCA](euer-privater-vorkurs/stochastik/pca.md)
   * [Mathe](euer-privater-vorkurs/mathe/README.md)
     * [Geometry](euer-privater-vorkurs/mathe/geometry/README.md)
