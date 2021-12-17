@@ -197,6 +197,7 @@
     * [Classification](research-papers-and-more/algorithmen/classification.md)
     * [Regression](research-papers-and-more/algorithmen/regression.md)
   * [Komplexitätstheorie](research-papers-and-more/komplexitaetstheorie/README.md)
+    * [Graph isomorphism problem](research-papers-and-more/komplexitaetstheorie/graph-isomorphism-problem.md)
     * [Quantum Komplexität](research-papers-and-more/komplexitaetstheorie/quantum-komplexitaet.md)
   * [Quantum-Simulation](research-papers-and-more/quantum-simulation/README.md)
     * [Hamiltonian simulation](research-papers-and-more/quantum-simulation/hamiltonian-simulation.md)
