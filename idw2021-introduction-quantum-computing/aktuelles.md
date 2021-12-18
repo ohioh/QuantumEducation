@@ -21,3 +21,7 @@
 @BQP [\[ LINK \]](https://docs.google.com/document/d/1DvdLR0gcVSFSS9ZIBdnNQDOUJlbw7q6QYA5cvJ8pXIM/edit?usp=sharing)
 
 @gitbook \[ coming soon ]
+
+**QuantumLearningRateVisualization**
+
+**@BQP  \[ Link coming soon ]**
