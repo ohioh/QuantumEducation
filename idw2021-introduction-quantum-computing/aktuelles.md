@@ -24,4 +24,4 @@
 
 **QuantumLearningRateVisualization**
 
-**@BQP  \[ Link coming soon ]**
+@BQP  \[ Link coming soon ]
