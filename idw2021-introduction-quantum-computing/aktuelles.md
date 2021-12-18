@@ -30,6 +30,6 @@ UML for Workgroup
 
 @BQP [\[ LINK \]](https://docs.google.com/document/d/15mVlWVdbFfuWPyDT7igXeGKc5OxyYVV29Azh-nGa1Xs/edit?usp=sharing)
 
-Classical Deep Learning
+**Classical Deep Learning ( & Activation Function )**
 
 @BQP [\[ LINK \] ](https://docs.google.com/document/d/1SaLeVaCWwseHVkCnl0u0Tvr44odWqnHM83ZXlxGEcCA/edit?usp=sharing)
