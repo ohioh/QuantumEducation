@@ -139,6 +139,7 @@
   * [Axiome der Quanten-Mechanik](course/axiome-der-quanten-mechanik.md)
   * [Course Kick-Off](course/course-kickk-off.md)
 * [Literature list](literatur-liste.md)
+* [Deep Learning](deep-learning.md)
 * [Quantum Machine Learning](quantum-machine-learning/README.md)
   * [Quantum Projects](quantum-machine-learning/project-theme/README.md)
     * [The Quantum Graph Recurrent Neural Network](quantum-machine-learning/project-theme/the-quantum-graph-recurrent-neural-network.md)
