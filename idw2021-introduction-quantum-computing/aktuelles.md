@@ -1,12 +1,14 @@
 # Aktuelles
 
-Dezember 2021
+**Dezember 2021**
 
 **Quantum with Federated Learning ( QFL )?**&#x20;
 
 \-> @Presentation [\[ LINK \]](https://docs.google.com/presentation/d/1YMo-EGSDAGPtQS-aWh5BhmmuVM0s\_eklly0DeHlpclE/edit?usp=sharing)
 
 \-> @BQP \[ LINK ]
+
+\-> State Vector Method vs. Tensor Network Mehtod
 
 **Optimizer Classical meets  Quantum**&#x20;
 
