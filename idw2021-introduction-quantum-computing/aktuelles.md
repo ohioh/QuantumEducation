@@ -25,3 +25,7 @@
 **QuantumLearningRateVisualization**
 
 @BQP  \[ Link coming soon ]
+
+UML for Workgroup
+
+@BQP [\[ LINK \]](https://docs.google.com/document/d/15mVlWVdbFfuWPyDT7igXeGKc5OxyYVV29Azh-nGa1Xs/edit?usp=sharing)
