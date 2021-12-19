@@ -31,7 +31,7 @@ Bell-Zustand Der Bell-Zusand beschreibt ein pysikalisches System aus mehreren Te
 
 
 \
-![](<../../.gitbook/assets/image (18).png>)
+![](<../../.gitbook/assets/image (18) (1).png>)
 
 {% embed url="https://en.wikipedia.org/wiki/Bell_test" %}
 

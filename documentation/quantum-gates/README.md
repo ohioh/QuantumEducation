@@ -18,7 +18,7 @@ description: '@Glimpse ( coming soon )'
 
 ![](<../../.gitbook/assets/image (21).png>)
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (1).png>)
 
 ![](<../../.gitbook/assets/image (20).png>)
 

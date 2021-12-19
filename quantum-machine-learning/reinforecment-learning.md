@@ -10,6 +10,8 @@ description: >-
 
 @git [https://github.com/ohioh/IntroductionQuantumComputing/blob/main/GettingStarted/ReinforcementLearning.ipynb](https://github.com/ohioh/IntroductionQuantumComputing/blob/main/GettingStarted/ReinforcementLearning.ipynb)
 
+![\[ LINK \]](<../.gitbook/assets/image (8).png>)
+
 {% embed url="https://www.youtube.com/watch?v=FFW52FuUODQ" %}
 \#
 {% endembed %}
