@@ -10,6 +10,10 @@ description: >-
 
 @git [https://github.com/ohioh/IntroductionQuantumComputing/blob/main/GettingStarted/ReinforcementLearning.ipynb](https://github.com/ohioh/IntroductionQuantumComputing/blob/main/GettingStarted/ReinforcementLearning.ipynb)
 
+{% embed url="https://www.youtube.com/watch?v=FFW52FuUODQ" %}
+\#
+{% endembed %}
+
 recommended Book
 
 "Handbook of Reinforcement Learning and Control" -Springer ( Yan Wan, F. Lewis )
