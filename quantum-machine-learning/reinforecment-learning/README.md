@@ -30,7 +30,7 @@ Algorthms and model views ( [https://gym.openai.com/envs/#mujoco](https://gym.op
 
 @nature [https://www.nature.com/articles/nature14236](https://www.nature.com/articles/nature14236)
 
-
+@paper [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
 examples of decision under uncertainty:
 
