@@ -1,5 +1,7 @@
 ---
-description: '@glimpse [ coming soon ]'
+description: >-
+  @glimpse Das Konfidenzintervall ist ein Teil der Induktiven Statistik und
+  ermittelt den "wahren Parameter" einer Grundgesamtheit
 ---
 
 # Konfidenzinterval \[ ger. ]
