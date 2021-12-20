@@ -155,6 +155,7 @@
     * [Quantum-Simulation @Kubernetes with QuEST](quantum-machine-learning/project-theme/quantum-simulation-kubernetes-with-quest.md)
     * [Documentation](quantum-machine-learning/project-theme/documentation.md)
   * [Reinforcement Learning](quantum-machine-learning/reinforecment-learning/README.md)
+    * [Konfidenzinterval \[ ger. \]](quantum-machine-learning/reinforecment-learning/konfidenzinterval-ger..md)
     * [Multi Arm Bandits](quantum-machine-learning/reinforecment-learning/multi-arm-bandits.md)
   * [Classification](quantum-machine-learning/classification.md)
   * [Code Example:](quantum-machine-learning/code-example.md)
