@@ -1,5 +1,5 @@
 ---
-description: '@glimpse [ coming soon ]'
+description: '@glimpse k-armed bandit problems'
 ---
 
 # Multi Arm Bandits
