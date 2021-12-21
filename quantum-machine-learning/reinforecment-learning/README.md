@@ -32,6 +32,8 @@ Algorthms and model views ( [https://gym.openai.com/envs/#mujoco](https://gym.op
 
 @paper [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
+@Introduction-Book-Github-Repo: [https://github.com/JaeDukSeo/reinforcement-learning-an-introduction](https://github.com/JaeDukSeo/reinforcement-learning-an-introduction)
+
 examples of decision under uncertainty:
 
 @paper [\[ LINK \]](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/enterprise-office/public/Decision-making-under-uncertainty-FINAL.pdf)
