@@ -1,5 +1,8 @@
 ---
-description: '@Glimpse ( coming soon )'
+description: >-
+  @Glimpse Give a man a fish and he has food for one day. Teach the man to fish
+  will give him food a complete life. Give hi the taste and idea of a fish and
+  he will figure out how to
 coverY: 175.64761306532662
 cover: https://algorithmia.com/blog/wp-content/uploads/2018/05/word-image.png
 ---
