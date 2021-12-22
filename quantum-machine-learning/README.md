@@ -11,6 +11,8 @@ cover: https://algorithmia.com/blog/wp-content/uploads/2018/05/word-image.png
 
 Give a man a fish and he has food for one day. (programming AI) Teach the man to fish will give him food a complete life.(supervized learning by examples and decission) Give hi the taste and idea of a fish and he will figure out how to get food ever.(optimization)
 
+intelligent behavior arises from the actions of an individual seeking to maximize its received reward signals in a complex and changing world.-Littman
+
 ( Picture is from [DEEP IDEAS ](https://www.sabinasz.net/deep-learning-from-scratch-iv-gradient-descent-and-backpropagation/))
 
 You need some ideas about the "[Calculus](../euer-privater-vorkurs/mathe/basics/calculus/)"&#x20;
