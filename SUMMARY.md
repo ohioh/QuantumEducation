@@ -9,6 +9,7 @@
   * [Trello-Planung](idw2021-introduction-quantum-computing/trello-planung.md)
 * [FAQ](faq.md)
 * [Which tools do you use ?](which-tools-do-you-use/README.md)
+  * [Ubuntu](which-tools-do-you-use/ubuntu.md)
   * [Visual Studio Code](which-tools-do-you-use/visual-studio-code.md)
   * [Python virtual Env & Jupyter](which-tools-do-you-use/python-virtual-env-and-jupyter/README.md)
     * [How to install virtuel Env on Ubuntu](which-tools-do-you-use/python-virtual-env-and-jupyter/how-to-install-virtuel-env-on-ubuntu/README.md)
