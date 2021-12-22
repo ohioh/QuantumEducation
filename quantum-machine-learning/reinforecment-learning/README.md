@@ -18,6 +18,24 @@ What we mean by goals and purposes can be well thought of as maximizing the aspe
 \#
 {% endembed %}
 
+Reward-Strategy:
+
+( optimal behavior is achieved by reaching the goal )
+
+One way is to define a state where the goal is achieved as having plus one reward, and all others are 0 reward, that's sometimes called the goal rewarding coding.-Littman\
+
+
+Another is to penalize the agent with a -1 each step in which the goal has not been achieved. Once the goal is achieved, there's no more cost, that's the action penalty representation.
+
+(And both schemes can lead to big problems for goals with really long horizons)
+
+@Fun Computer scientist love the computer scientist love recursion.&#x20;
+
+In **inverse reinforcement learning**, a trainer demonstrates an example of the desired behavior, and the learner figures out what rewards the trainer must have been maximizing that makes this behavior optimal.\
+**meta reinforcement learning:** learning at the evolutionary level that creates better ways of learning at the individual level.
+
+
+
 recommended Book
 
 "Handbook of Reinforcement Learning and Control" -Springer ( Yan Wan, F. Lewis )
