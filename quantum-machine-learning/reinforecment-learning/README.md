@@ -6,6 +6,8 @@ description: >-
 
 # Reinforcement Learning
 
+What we mean by goals and purposes can be well thought of as maximizing the aspected value of the cumulative sum of the value of a received scalar signal (reward) -  mobi dick
+
 @BCP [\[ LINK \]](https://docs.google.com/document/d/1N3ZjkGHlLCvKx8eytJa8KxXUkdqpnFx9pxoqpGXbsKg/edit?usp=sharing)
 
 @git [https://github.com/ohioh/IntroductionQuantumComputing/blob/main/GettingStarted/ReinforcementLearning.ipynb](https://github.com/ohioh/IntroductionQuantumComputing/blob/main/GettingStarted/ReinforcementLearning.ipynb)
