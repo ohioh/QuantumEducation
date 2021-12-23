@@ -266,3 +266,8 @@
 
 * [Team-Members](github/team-members.md)
 * [This GitBook](github/this-gitbook.md)
+
+***
+
+* [K8s & JupyterHUB](k8s-and-jupyterhub.md)
+* [JupyterLAB @ JupyterHUB](jupyterlab-jupyterhub.md)
