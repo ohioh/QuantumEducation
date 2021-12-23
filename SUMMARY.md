@@ -269,5 +269,5 @@
 
 ***
 
-* [K8s & JupyterHUB](k8s-and-jupyterhub.md)
-* [JupyterLAB @ JupyterHUB](jupyterlab-jupyterhub.md)
+* [K8s & JupyterHUB](k8s-and-jupyterhub/README.md)
+  * [JupyterLAB @ JupyterHUB](k8s-and-jupyterhub/jupyterlab-jupyterhub.md)
