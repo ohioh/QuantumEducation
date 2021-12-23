@@ -161,6 +161,7 @@
   * [Reinforcement Learning](quantum-machine-learning/reinforecment-learning/README.md)
     * [Konfidenzinterval \[ ger. \]](quantum-machine-learning/reinforecment-learning/konfidenzinterval-ger..md)
     * [Multi Arm Bandits](quantum-machine-learning/reinforecment-learning/multi-arm-bandits.md)
+    * [https://www.datahubbs.com/reinforcement-learning-markov-decision-processes/](quantum-machine-learning/reinforecment-learning/https-www.datahubbs.com-reinforcement-learning-markov-decision-processes.md)
   * [Classification](quantum-machine-learning/classification.md)
   * [Code Example:](quantum-machine-learning/code-example.md)
   * [Optimizer](quantum-machine-learning/optimizer.md)
