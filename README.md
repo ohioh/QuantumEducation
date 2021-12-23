@@ -1,5 +1,8 @@
 ---
 description: Quantum-Computing made in Schleswig-Holstein
+cover: >-
+  https://images.unsplash.com/photo-1617839625591-e5a789593135?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwzfHxxdWFudHVtfGVufDB8fHx8MTY0MDI1NzUzMg&ixlib=rb-1.2.1&q=85
+coverY: 0
 ---
 
 # Welcome to Quantum-Computing
