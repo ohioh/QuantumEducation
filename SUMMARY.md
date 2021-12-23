@@ -239,6 +239,7 @@
     * [CNOT Gate](documentation/quantum-gates/cnot-gate.md)
     * [density matrix](documentation/quantum-gates/density-matrix.md)
 * [Quantum-Hommage](quantum-hommage.md)
+  * [ecosystem Quantum](quantum-hommage/ecosystem-quantum.md)
   * [Wolfgang Pauli](quantum-hommage/wolfgang-pauli.md)
   * [Max Planck](quantum-hommage/max-planck.md)
   * [Andrew Helwer](quantum-hommage/andrew-helwer.md)
