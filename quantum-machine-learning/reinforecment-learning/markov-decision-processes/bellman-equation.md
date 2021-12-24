@@ -15,3 +15,7 @@ The function defines the value of a state as the sum over all discounted rewards
 π(a∣s) is the therm as a probability of taking an action ( a ) in a state ( s ) under the policy π.
 
 &#x20;π simply states what the agent ought to do in each state. This could be stochastic or deterministic.&#x20;
+
+P(s′∣s,a)  is the probability of moving to the next state $$s′$$s′ and receiving the reward $$R$$R given our current state $$s$$s and taking action $$a$$a.
+
+($$R+γVπ(s′)$$R+γVπ(s′))&#x20;
