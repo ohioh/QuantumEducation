@@ -14,7 +14,7 @@ II. Die Zeitentwicklung der Zustände wird durch die Schrödinger-Gleichung
 
 III. \[ Jordansche Regel ]Den Observablen (Meßgr¨oßen) der klassischen Physik entsprechen in der Quantenmechanik hermitesche Operatoren, wobei Funktionen von Observablen Funktionen von Operatoren entsprechen:
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 IV. \[ Jordansche Regel ] Der Mittelwert/ Erwartungswert einer Observablen mit zugeörigem Operator A ist im Zustand gegeben:
 

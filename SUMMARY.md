@@ -162,6 +162,7 @@
     * [Konfidenzinterval \[ ger. \]](quantum-machine-learning/reinforecment-learning/konfidenzinterval-ger..md)
     * [Multi Arm Bandits](quantum-machine-learning/reinforecment-learning/multi-arm-bandits.md)
     * [Markov Decision Processes](quantum-machine-learning/reinforecment-learning/markov-decision-processes.md)
+      * [stochastic vs deterministic](quantum-machine-learning/reinforecment-learning/markov-decision-processes/stochastic-vs-deterministic.md)
       * [path dependency](quantum-machine-learning/reinforecment-learning/markov-decision-processes/path-dependency.md)
       * [Value Function](quantum-machine-learning/reinforecment-learning/markov-decision-processes/value-function.md)
       * [markov probability](quantum-machine-learning/reinforecment-learning/markov-decision-processes/markov-probability.md)
