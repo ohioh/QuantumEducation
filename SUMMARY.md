@@ -271,6 +271,9 @@
 
 ***
 
-* [Quantum-Simulation](quantum-simulation/README.md)
-  * [K8s & JupyterHUB](quantum-simulation/k8s-and-jupyterhub.md)
-  * [JupyterLAB @ JupyterHUB](quantum-simulation/jupyterlab-jupyterhub.md)
+* [Quantum-Simulation](k8s-and-jupyterhub/README.md)
+  * [Quest](quantum-simulation/quest/README.md)
+    * [Publications](quantum-simulation/quest/publications.md)
+  * [Cloud](quantum-simulation/cloud/README.md)
+    * [K8s & JupyterHUB](quantum-simulation/cloud/k8s-and-jupyterhub.md)
+    * [JupyterLAB @ JupyterHUB](quantum-simulation/cloud/jupyterlab-jupyterhub.md)
