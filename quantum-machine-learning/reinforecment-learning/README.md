@@ -61,3 +61,5 @@ examples of decision under uncertainty:
 @page [\[ LINK \]](https://towardsdatascience.com/reinforcement-learning-rl-101-with-python-e1aa0d37d43b)
 
 ## Reinforcement Learning: Bellman Equation and Optimality [\[ Part 1 \]](./#9b09) , [\[ Part 2 \]](https://towardsdatascience.com/reinforcement-learning-markov-decision-process-part-2-96837c936ec3) , [\[ Part 3 \]](./#9b09)  <a href="#9b09" id="9b09"></a>
+
+## @wiki [\[ Optimalitätsprinzip von Bellman \]](https://de.wikipedia.org/wiki/Optimalit%C3%A4tsprinzip\_von\_Bellman) <a href="#9b09" id="9b09"></a>

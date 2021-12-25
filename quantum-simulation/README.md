@@ -1,9 +1,9 @@
 ---
 description: '@glimpse [ coming soon ]'
+coverY: 0
 ---
 
-# K8s & JupyterHUB
+# Quantum-Simulation
 
 ![for the project](https://zero-to-jupyterhub.readthedocs.io/en/latest/\_static/logo.png)
 
-@page[ \[ Zero to JupyterHub with Kubernetes \]](https://zero-to-jupyterhub.readthedocs.io/en/latest/index.html)
