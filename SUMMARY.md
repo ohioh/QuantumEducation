@@ -285,5 +285,6 @@
   * [Quest](quantum-simulation/quest/README.md)
     * [Publications](quantum-simulation/quest/publications.md)
   * [Cloud](quantum-simulation/cloud/README.md)
+    * [Kubernetes](quantum-simulation/cloud/kubernetes.md)
     * [K8s & JupyterHUB](quantum-simulation/cloud/k8s-and-jupyterhub.md)
     * [JupyterLAB @ JupyterHUB](quantum-simulation/cloud/jupyterlab-jupyterhub.md)
