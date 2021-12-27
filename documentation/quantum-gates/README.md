@@ -16,7 +16,7 @@ description: '@Glimpse ( coming soon )'
 
 ![https://medium.com/@mdebdut/quantum-gates-matrix-memorization-cheat-sheet-5541f34cd8fe](<../../.gitbook/assets/image (16).png>)
 
-![](<../../.gitbook/assets/image (21).png>)
+![](<../../.gitbook/assets/image (21) (1).png>)
 
 ![](<../../.gitbook/assets/image (8) (1).png>)
 

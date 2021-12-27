@@ -12,6 +12,7 @@
   * [Ubuntu](which-tools-do-you-use/ubuntu.md)
   * [Visual Studio Code](which-tools-do-you-use/visual-studio-code.md)
   * [Python virtual Env & Jupyter](which-tools-do-you-use/python-virtual-env-and-jupyter/README.md)
+    * [Update Python Version](which-tools-do-you-use/python-virtual-env-and-jupyter/update-python-version.md)
     * [How to install virtuel Env on Ubuntu](which-tools-do-you-use/python-virtual-env-and-jupyter/how-to-install-virtuel-env-on-ubuntu/README.md)
       * [Using Jupyter with virtual Env](which-tools-do-you-use/python-virtual-env-and-jupyter/how-to-install-virtuel-env-on-ubuntu/using-jupyter-with-virtual-env.md)
   * [GitKraken](which-tools-do-you-use/gitkraken.md)
