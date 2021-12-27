@@ -17,6 +17,7 @@
       * [Using Jupyter with virtual Env](which-tools-do-you-use/python-virtual-env-and-jupyter/how-to-install-virtuel-env-on-ubuntu/using-jupyter-with-virtual-env.md)
   * [GitKraken](which-tools-do-you-use/gitkraken.md)
   * [@Python](which-tools-do-you-use/python/README.md)
+    * [Page 2](which-tools-do-you-use/python/page-2.md)
     * [Qutip](which-tools-do-you-use/python/qutip.md)
     * [scikit-learn](which-tools-do-you-use/python/scikit-learn.md)
     * [seaborn](which-tools-do-you-use/python/seaborn.md)
