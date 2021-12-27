@@ -266,6 +266,7 @@
   * [Grover's algorithm](research-papers-and-more/algorithmen/grovers-algorithm.md)
   * [Deutsch-Josza](research-papers-and-more/algorithmen/deutsch-josza.md)
   * [Shor-Algorithm for Prime Factorization](research-papers-and-more/algorithmen/shor-algorithm-for-prime-factorization.md)
+  * [Quantum](algorithmen/quantum.md)
   * [Classification](research-papers-and-more/algorithmen/classification.md)
   * [Regression](research-papers-and-more/algorithmen/regression.md)
 * [Quantum @ LinuxFoundation](quantum-linuxfoundation/README.md)
