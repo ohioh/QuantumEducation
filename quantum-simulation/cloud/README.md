@@ -6,6 +6,8 @@ description: '@glimpse: the video from supergiant.io helped me a lot'
 
 @youtube [\[ How to Deploy Kubernetes Cluster from Scratch \]](https://www.youtube.com/watch?v=t4H6hdvB9iQ)
 
+@page [\[ Vagrant Housekeeping \]](https://codereviewvideos.com/course/vagrant-with-ansible-and-symfony2/video/vagrant-housekeeping#:\~:text=There%20are%20two%20ways%20to,from%20the%20terminal%20in%20Ubuntu.\&text=Which%2C%20as%20the%20command%20would%20imply%2C%20forces%20the%20shutdown%20regardless.)
+
 ![thx 2&#x20;
 Supergiant ioSupergiant io
 ](<../../.gitbook/assets/image (4).png>)
