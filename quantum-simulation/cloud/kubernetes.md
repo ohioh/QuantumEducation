@@ -8,4 +8,9 @@ coverY: 33.230559345156884
 
 @main-page [\[ homepage \]](https://kubernetes.io)
 
-@page [\[ docs \]](https://kubernetes.io/docs/home/)
+@page [\[ docs \]](https://kubernetes.io/docs/home/)\
+
+
+![\[ source \]](<../../.gitbook/assets/image (9).png>)
+
+![\[ source \]](<../../.gitbook/assets/image (3).png>)

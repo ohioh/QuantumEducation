@@ -8,7 +8,7 @@ description: '@glimpse [ coming soon ]'
 
 The Bellman equation was formulated by [Richard Bellman](http://www.iumj.indiana.edu/IUMJ/FULLTEXT/1957/6/56038) as a way to relate the value function and all the future actions and states of an MDP.
 
-![Bellman equation](<../../../.gitbook/assets/image (9).png>)
+![Bellman equation](<../../../.gitbook/assets/image (9) (1).png>)
 
 The function defines the value of a state as the sum over all discounted rewards which are weighted by the probability of their occurrence given by a certain policy π.
 
