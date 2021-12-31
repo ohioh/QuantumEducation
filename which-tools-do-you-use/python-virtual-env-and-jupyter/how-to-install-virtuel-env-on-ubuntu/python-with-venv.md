@@ -6,6 +6,8 @@ description: >-
 
 # Python with Venv
 
+@page [\[ venv \]](https://docs.python.org/3/library/venv.html)
+
 ### Go to the directory for your project
 
 create the folder $mkdir my\_project
