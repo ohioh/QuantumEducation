@@ -1,13 +1,17 @@
 ---
-description: '@Glimpse Here is a short tutorial to update your python version'
+description: '@Glimpse Here is a short tutorial to update your python version 3.10'
 ---
 
 # Update Python Version
 
+@page   [\[ How To Install Python 3.10 on Ubuntu 20.04|18.04 \]](https://computingforgeeks.com/how-to-install-python-on-ubuntu-linux-system/)
+
 lets start with&#x20;
 
-$ sudo apt update\
-$sudo apt install python3.9
+```
+sudo apt update
+sudo apt install python3.9
+```
 
 You can call this python version now in the terminal with $python3.9 but it is not the main python version on your system,yet. $ **`python3 --version`**&#x20;
 
@@ -20,7 +24,9 @@ sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.9 2
 
 type the following command to configure the priority status of the versions:
 
-$sudo update-alternatives --config python3
+```
+sudo update-alternatives --config python3
+```
 
 \
 with the terminal output\
