@@ -16,6 +16,7 @@
     * [How to install virtuel Env on Ubuntu](which-tools-do-you-use/python-virtual-env-and-jupyter/how-to-install-virtuel-env-on-ubuntu/README.md)
       * [Python with PipENV](which-tools-do-you-use/python-virtual-env-and-jupyter/how-to-install-virtuel-env-on-ubuntu/python-with-pipenv.md)
       * [Python with Venv](which-tools-do-you-use/python-virtual-env-and-jupyter/how-to-install-virtuel-env-on-ubuntu/python-with-venv.md)
+      * [Uninstall Python Version](which-tools-do-you-use/python-virtual-env-and-jupyter/how-to-install-virtuel-env-on-ubuntu/uninstall-python-version.md)
       * [Using Jupyter with virtual Env](which-tools-do-you-use/python-virtual-env-and-jupyter/how-to-install-virtuel-env-on-ubuntu/using-jupyter-with-virtual-env.md)
   * [GitKraken](which-tools-do-you-use/gitkraken.md)
   * [@Python](which-tools-do-you-use/python/README.md)
