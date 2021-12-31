@@ -10,6 +10,16 @@ description: >-
 
 create the folder $mkdir my\_project
 
+structure:
+
+my\_project:
+
+&#x20;       \--->venv
+
+&#x20;      \--->requirements.txt
+
+&#x20;      \---> my\_data
+
 ### Create the virtual Env.
 
 The folder of the virtual ennvirenment should be a seperated folder which is not containing content from your project by it self. To controll packages a "requirement.txt" file helps to organize it.
