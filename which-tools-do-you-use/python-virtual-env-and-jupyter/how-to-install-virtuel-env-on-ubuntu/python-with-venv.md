@@ -61,4 +61,5 @@ pip list --local
 pip freeze > requirements.txt
 ```
 
-this command create a copy of the acutal copy of the activated env in a text-file
+this command create a copy of the acutal copy of the activated env in a text-file\
+@video[ \[ Python Tutorial: VENV (Mac & Linux) - How to Use Virtual Environments with the Built-In venv Module \]](https://www.youtube.com/watch?v=Kg1Yvry\_Ydk)
