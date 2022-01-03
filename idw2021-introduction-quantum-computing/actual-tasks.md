@@ -1,4 +1,10 @@
-# Aktuelles
+# actual tasks
+
+**January 2022**
+
+**PyTorch: A practical summary for classicl datascience** [**\[ DOCUMENT \]**](https://docs.google.com/document/d/1iUOXZHmWKyICVb8EzB0Jv0JW3q6wK6lmKSlgDYucA2E/edit?usp=sharing)****
+
+**---------------------------------------------------------------------------------------------------**
 
 **Dezember 2021**
 

@@ -4,7 +4,7 @@
 * [The Project](idw2021-introduction-quantum-computing.md)
   * [Team](idw2021-introduction-quantum-computing/team.md)
   * [Discord](idw2021-introduction-quantum-computing/discord.md)
-  * [Aktuelles](idw2021-introduction-quantum-computing/aktuelles.md)
+  * [actual tasks](idw2021-introduction-quantum-computing/actual-tasks.md)
   * [Termine](idw2021-introduction-quantum-computing/termine.md)
   * [Trello-Planung](idw2021-introduction-quantum-computing/trello-planung.md)
 * [FAQ](faq.md)
