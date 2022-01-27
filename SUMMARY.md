@@ -290,5 +290,6 @@
     * [Publications](quantum-simulation/quest/publications.md)
   * [Cloud](quantum-simulation/cloud/README.md)
     * [Kubernetes](quantum-simulation/cloud/kubernetes.md)
+    * [Kubernetes Tutorial](quantum-simulation/cloud/kubernetes-tutorial.md)
     * [K8s & JupyterHUB](quantum-simulation/cloud/k8s-and-jupyterhub.md)
     * [JupyterLAB @ JupyterHUB](quantum-simulation/cloud/jupyterlab-jupyterhub.md)
