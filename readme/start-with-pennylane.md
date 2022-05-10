@@ -7,6 +7,6 @@ description: >-
 
 # Start with Pennylane
 
-Link 2 repository \[ [https://github.com/ohioh/QuantumKursFHKiel2022/tree/main/DemosPennylane/nordicQuantumTutorials](https://github.com/ohioh/QuantumKursFHKiel2022/tree/main/DemosPennylane/nordicQuantumTutorials) ]
+[Link 2 repository](https://github.com/ohioh/QuantumKursFHKiel2022/tree/main/DemosPennylane/nordicQuantumTutorials)&#x20;
 
-Link 2 Documentation  \[ [https://docs.google.com/document/d/1ZOuI5j6r3y1OX4xJF4pspN1sIcyuCmsrQJ8TjBjom\_k/edit?usp=sharing](https://docs.google.com/document/d/1ZOuI5j6r3y1OX4xJF4pspN1sIcyuCmsrQJ8TjBjom\_k/edit?usp=sharing) ]
+[Link 2 Documentation](https://docs.google.com/document/d/1ZOuI5j6r3y1OX4xJF4pspN1sIcyuCmsrQJ8TjBjom\_k/edit?usp=sharing)&#x20;
