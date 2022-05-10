@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome to Quantum-Computing](README.md)
+  * [Start with Pennylane](readme/start-with-pennylane.md)
 * [The Project](idw2021-introduction-quantum-computing.md)
   * [Team](idw2021-introduction-quantum-computing/team.md)
   * [Discord](idw2021-introduction-quantum-computing/discord.md)
