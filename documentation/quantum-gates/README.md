@@ -6,6 +6,10 @@ description: '@Glimpse ( coming soon )'
 
 [https://www.quantum-inspire.com/kbase/cnot/](https://www.quantum-inspire.com/kbase/cnot/)
 
+\[quantum logic gates]\([https://en.wikipedia.org/wiki/Quantum\_logic\_gate](https://en.wikipedia.org/wiki/Quantum\_logic\_gate))
+
+
+
 [https://qudev.phys.ethz.ch/static/content/courses/QSIT07/presentations/Schmassmann.pdf](https://qudev.phys.ethz.ch/static/content/courses/QSIT07/presentations/Schmassmann.pdf)
 
 [https://arxiv.org/pdf/1110.2998.pdf](https://arxiv.org/pdf/1110.2998.pdf)
@@ -16,7 +20,7 @@ description: '@Glimpse ( coming soon )'
 
 ![https://medium.com/@mdebdut/quantum-gates-matrix-memorization-cheat-sheet-5541f34cd8fe](<../../.gitbook/assets/image (16).png>)
 
-![](<../../.gitbook/assets/image (21) (1).png>)
+![](<../../.gitbook/assets/image (21) (1) (1).png>)
 
 ![](<../../.gitbook/assets/image (8) (1).png>)
 

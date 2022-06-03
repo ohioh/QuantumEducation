@@ -32,7 +32,7 @@ sudo update-alternatives --config python3
 with the terminal output\
 
 
-![\[ source \]](<../../.gitbook/assets/image (21).png>)
+![\[ source \]](<../../.gitbook/assets/image (21) (1).png>)
 
 If you are not planning to use the old version of Python, remove the [symlink](https://phoenixnap.com/kb/symbolic-link-linux) that contained the previous Python 3 version with:
 

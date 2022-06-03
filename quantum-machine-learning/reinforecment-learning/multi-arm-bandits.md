@@ -4,7 +4,7 @@ description: '@glimpse k-armed bandit problems'
 
 # Multi Arm Bandits
 
-![source ](<../../.gitbook/assets/image (1).png>)
+![source ](<../../.gitbook/assets/image (1) (1).png>)
 
 @Info [Robbins, Herbert](http://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/robbins-herbert.pdf)&#x20;
 

@@ -6,4 +6,4 @@ description: >-
 
 # Practical Deep Learning for Coders
 
-@Course [\[ LINK \]](https://course.fast.ai)
+@Course [\[ LINK \]](https://course.fast.ai/)

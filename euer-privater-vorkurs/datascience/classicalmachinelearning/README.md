@@ -10,7 +10,7 @@ description: >-
 
 ![https://datasolut.com/machine-learning-vs-deep-learning/](../../../.gitbook/assets/image.png)
 
-![](<../../../.gitbook/assets/image (19).png>)
+![](<../../../.gitbook/assets/image (19) (1).png>)
 
 scikit-learn:
 

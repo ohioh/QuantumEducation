@@ -241,6 +241,7 @@
   * [Pennylane](documentation/pennylane.md)
   * [Pennylane](documentation/pennylane-1.md)
   * [Quantum-Gates](documentation/quantum-gates/README.md)
+    * [Toffoli souble controlled-Not CCX Gate](documentation/quantum-gates/toffoli-souble-controlled-not-ccx-gate.md)
     * [Pauli Z Gate](documentation/quantum-gates/pauli-z-gate.md)
     * [CNOT Gate](documentation/quantum-gates/cnot-gate.md)
     * [density matrix](documentation/quantum-gates/density-matrix.md)

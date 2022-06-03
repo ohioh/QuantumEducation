@@ -6,6 +6,6 @@ description: >-
 
 # Qutip
 
-@Page [\[ Link \]](https://qutip.org)
+@Page [\[ Link \]](https://qutip.org/)
 
 @Tutorials [\[ Link \]](https://qutip.org/tutorials.html)

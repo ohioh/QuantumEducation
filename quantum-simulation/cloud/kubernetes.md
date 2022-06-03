@@ -6,7 +6,7 @@ coverY: 33.230559345156884
 
 # Kubernetes
 
-@main-page [\[ homepage \]](https://kubernetes.io)
+@main-page [\[ homepage \]](https://kubernetes.io/)
 
 @page [\[ docs \]](https://kubernetes.io/docs/home/)\
 
