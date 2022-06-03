@@ -249,7 +249,7 @@
     * [Hadamard ( H ) Gate](documentation/quantum-gates/hadamard-h-gate.md)
     * [Toffoli double controlled-Not CCX Gate](documentation/quantum-gates/toffoli-double-controlled-not-ccx-gate.md)
     * [Pauli Z Gate](documentation/quantum-gates/pauli-z-gate.md)
-    * [CNOT Gate](documentation/quantum-gates/cnot-gate.md)
+    * [CNOT ( CX )Gate](documentation/quantum-gates/cnot-gate.md)
     * [density matrix](documentation/quantum-gates/density-matrix.md)
 * [Quantum-Hommage](quantum-hommage.md)
   * [ecosystem Quantum](quantum-hommage/ecosystem-quantum.md)
