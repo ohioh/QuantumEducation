@@ -18,7 +18,7 @@ description: '@Glimpse ( coming soon )'
 
 [https://www.asc.ohio-state.edu/perry.6/p5501\_sp17/articles/quantum\_gates.pdf](https://www.asc.ohio-state.edu/perry.6/p5501\_sp17/articles/quantum\_gates.pdf)
 
-![https://medium.com/@mdebdut/quantum-gates-matrix-memorization-cheat-sheet-5541f34cd8fe](<../../.gitbook/assets/image (16).png>)
+![https://medium.com/@mdebdut/quantum-gates-matrix-memorization-cheat-sheet-5541f34cd8fe](<../../.gitbook/assets/image (16) (1).png>)
 
 ![](<../../.gitbook/assets/image (21) (1) (1).png>)
 
